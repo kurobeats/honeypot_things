@@ -1218,6 +1218,7 @@ norman
 north
 norton
 nostale
+notes2
 november
 ns
 numerge
@@ -1563,6 +1564,7 @@ science
 scot
 scott
 scotty
+sdlbp1
 sean
 sebastian
 secure
