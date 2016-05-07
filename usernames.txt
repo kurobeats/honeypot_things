@@ -11,6 +11,7 @@
 12345678
 123456789
 22
+45.55.6.129:root:password
 515432523
 68
 69
@@ -1546,6 +1547,7 @@ root
 :root
 RooT
 ROOT
+root2
 ROOT.PRAF
 ros
 rosaleen
@@ -1630,6 +1632,7 @@ science
 scot
 scott
 scotty
+script
 sdlbp1
 sean
 sebastian
