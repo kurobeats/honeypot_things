@@ -48,6 +48,7 @@ admin123
 administrador
 administrator
 Administrator
+admissions
 admln
 ado
 adolf
@@ -539,6 +540,7 @@ doug
 douglas
 download
 downloads
+dragon
 drew
 droopy
 drupal
@@ -832,6 +834,7 @@ harriett
 harris
 harrison
 harry
+harrypotter
 harvey
 hate
 hayley
@@ -883,6 +886,8 @@ ibmuser
 icinga
 icnanker
 id
+ident
+identd
 ifconfig
 igibson
 igor
