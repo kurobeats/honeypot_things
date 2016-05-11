@@ -93,6 +93,7 @@ aman
 amanda
 amane
 amavis
+amavisd
 amber
 american
 amit
@@ -330,6 +331,7 @@ chucky
 cindy
 ciro
 cisco
+Cisco
 clamav
 clara
 clare
@@ -341,11 +343,13 @@ clerk
 clickbuy
 cliff
 clinton
+cliuser
 close
 cloud
 cloud9
 cloudinc
 cloud-user
+cmaker
 cmr00281
 cmsftp
 cock
@@ -444,6 +448,7 @@ db
 db1
 db2
 db2admin
+db2as
 db2fenc1
 db2fenc2
 db2fenc3
@@ -882,6 +887,7 @@ humphrey
 hunter
 i
 ian
+ibmdb2
 ibmuser
 icinga
 icnanker
@@ -892,6 +898,7 @@ ifconfig
 igibson
 igor
 ii
+iida
 ikeda
 ileana
 ileen
@@ -1111,6 +1118,7 @@ Mason
 masquerading
 master
 mat
+matematica
 mateo
 math
 mathilda
@@ -1460,9 +1468,12 @@ quentin
 quin
 quincy
 quinton
+qwerty
 qwq
 qz
 r
+r00t
+r00t1ng
 rachel
 racquel
 radio
