@@ -173,6 +173,7 @@ backups
 bailey
 baldwin
 bambi
+bananapi
 baptist
 barb
 barbara
@@ -452,6 +453,7 @@ db2as
 db2fenc1
 db2fenc2
 db2fenc3
+db2inst
 db2inst1
 db2inst2
 db2inst3
@@ -844,6 +846,7 @@ harvey
 hate
 hayley
 hbase
+hd
 hdfs
 hduser
 heather
@@ -1732,6 +1735,7 @@ sofia
 Sofia
 sofie
 soft
+solr
 somesecguy
 sonar
 sonia
