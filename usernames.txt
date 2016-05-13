@@ -48,6 +48,7 @@ admin123
 administrador
 administrator
 Administrator
+admins
 admissions
 admln
 ado
@@ -57,6 +58,7 @@ adrian
 adriana
 afd
 africa
+agent
 agnes
 aiden
 Aiden
@@ -1037,6 +1039,7 @@ linux
 list
 ll
 lms
+lnexus
 lnx
 loach
 logan
@@ -1625,6 +1628,7 @@ sam
 samantha
 samba
 sammy
+samp
 samples
 samsung
 samuel
