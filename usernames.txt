@@ -27,6 +27,7 @@ abe
 abel
 abigail
 abraham
+abrt
 access
 account
 accounting
@@ -343,6 +344,7 @@ clare
 clark
 class
 claude
+claudia
 claudiu
 clerk
 clickbuy
@@ -692,6 +694,7 @@ florentina
 florian
 florin
 flower
+fluffy
 flw
 fms
 fnet
@@ -751,6 +754,7 @@ garret
 garry
 gas
 gast6
+GATEWAY
 gaurav
 gay
 gayle
@@ -792,10 +796,12 @@ git3
 gitlab
 gitolite
 gitosis
+gituser
 gladys
 glassfish
 glen
 glenn
+glftpd
 global
 gloria
 gmod
@@ -860,6 +866,7 @@ harry
 harrypotter
 harvey
 hate
+hax0r
 hayley
 hbase
 hd
@@ -1457,6 +1464,7 @@ portal
 pos
 post
 postfix
+postgers
 postgres
 postgres1
 postgresql
@@ -1875,6 +1883,7 @@ sys
 sysadmin
 sysop
 system
+systemlocaluser
 t
 t1na
 tania
@@ -2067,6 +2076,7 @@ uzzica
 v
 vagrant
 valerie
+vali
 vargant
 varnish
 vbox
