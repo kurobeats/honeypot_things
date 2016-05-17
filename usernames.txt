@@ -67,6 +67,7 @@ ai_luat
 ais
 ajay
 al
+alah1
 alah2
 alan
 albert
@@ -502,6 +503,7 @@ derek
 desadm
 desktop
 desolate
+desop
 destiny
 dev
 devdata
@@ -675,6 +677,7 @@ february
 fedora
 felicia
 felix
+fepbytr
 ferdinand
 ff
 file
@@ -1164,6 +1167,7 @@ maurice
 mauro
 maurta
 max
+maxided
 maximilian
 maxwell
 may
@@ -1212,6 +1216,7 @@ mit
 mitch
 mkdir
 mm
+mo360
 moin
 moinmoin
 mona
@@ -1324,6 +1329,7 @@ numerge
 nvidia
 o
 o360adm
+o360op
 object
 obscure
 ocean
@@ -1510,6 +1516,7 @@ r
 r00t
 r00t1ng
 rachel
+rack
 racquel
 radio
 radiomail
@@ -1767,6 +1774,7 @@ sloan
 sloane
 slut
 smart
+smcadmin
 smmsp
 snoop
 snoopy
