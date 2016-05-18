@@ -107,6 +107,7 @@ anastacia
 anderson
 andra
 andras
+andre
 andrea
 andreea
 andrei
@@ -145,6 +146,7 @@ appserver
 apresley
 april
 aptproxy
+arch
 arnold
 arthur
 artificial
@@ -179,6 +181,8 @@ backups
 bailey
 baldwin
 bambi
+bambo
+bamboo
 bananapi
 baptist
 barb
@@ -266,6 +270,7 @@ burt
 butget
 butter
 butthead
+buz
 byte
 bytes
 c
@@ -381,6 +386,7 @@ content
 control
 cookie
 cora
+core
 corine
 cornelia
 corrie
@@ -531,6 +537,7 @@ divya
 django
 dl
 D-Link
+dms
 dn
 dnscache
 doc
@@ -799,6 +806,7 @@ git3
 gitlab
 gitolite
 gitosis
+gittest
 gituser
 gladys
 glassfish
@@ -997,6 +1005,7 @@ jarod
 jasmina
 jasmine
 jason
+java
 jay
 jaycob
 jayendra
@@ -1009,6 +1018,7 @@ jenkins:1q2w3e
 jenkins:jenkins
 jerry
 jesus
+JET
 jgarcia
 jira
 jj
@@ -1024,6 +1034,7 @@ juanc
 julien
 k
 kafka
+kali
 kang
 karaf
 karim
@@ -1069,6 +1080,8 @@ lms
 lnexus
 lnx
 loach
+local
+localhost
 logan
 Logan
 login
@@ -1268,6 +1281,7 @@ nano
 naomi
 narcissa
 nas
+nasa
 nasa123
 naseej
 natalie
@@ -1285,6 +1299,7 @@ neo
 net
 netapp
 netstat
+network
 nevada
 new
 newroot
@@ -1301,6 +1316,7 @@ nick
 nicolas
 nicole
 nigel
+nigger
 night
 nine
 nitrous
@@ -1321,6 +1337,7 @@ norman
 north
 norton
 nostale
+notes
 notes2
 november
 ns
@@ -1667,6 +1684,7 @@ sad
 sal
 sales
 sally
+salvatore
 sam
 samantha
 samba
@@ -2042,6 +2060,7 @@ u
 ubnt
 ubuntu
 ubuntu10
+ubunu
 ucpss
 uk
 unclaimed
@@ -2109,6 +2128,7 @@ vnc
 voxility
 voxvalley
 vpn
+vps
 vscan
 vtiger
 vuln
