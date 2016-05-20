@@ -120,6 +120,7 @@ angelo
 angie
 angry
 aniek
+anita
 ankit
 ankur
 anna
@@ -386,6 +387,7 @@ contabilidad
 contact
 content
 control
+controller
 cookie
 cora
 core
@@ -601,6 +603,7 @@ edgar
 edison
 edith
 edmund
+edu
 education
 edward
 edwin
@@ -609,6 +612,7 @@ egg
 eggdrop
 egghead
 eight
+einstein
 ejabberd
 elaine
 eleanor
@@ -1036,6 +1040,7 @@ jorgen
 joseph
 juanc
 julien
+jun
 k
 kafka
 kali
@@ -1057,6 +1062,7 @@ kk
 klem
 ko
 kodi
+kon
 kritchel
 kundan
 kwong
@@ -2010,6 +2016,7 @@ to
 toby
 tod
 todd
+token
 tom
 tomaso
 tomasz
