@@ -290,6 +290,7 @@ caltech
 calvin
 camelia
 camellia
+camera
 cameron
 camouflaged
 car
@@ -1769,6 +1770,7 @@ scotty
 script
 sdlbp1
 sean
+search
 sebastian
 secret
 secure
