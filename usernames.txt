@@ -10,10 +10,18 @@
 123456
 1234567
 12345678
+12345678
 123456789
+2
 22
+2JET
+3
+4
 45.55.6.129:root:password
+5
+500
 515432523
+6
 68
 69
 a
@@ -23,6 +31,7 @@ aa
 aaa
 aaron
 abc
+abc123
 abcs
 abe
 abel
@@ -50,6 +59,7 @@ Admin
 ADMIN
 admin123
 admin2
+Admin2
 admIndian
 administrador
 administrator
@@ -169,6 +179,7 @@ arthur
 artificial
 arul
 arun
+as
 asantos
 ash
 ashish
@@ -189,6 +200,7 @@ automak
 autumn
 Ava
 avahi
+awie
 axel
 azure
 b
@@ -215,6 +227,7 @@ basil
 bastiaan
 bayo
 bb
+bd
 bdo
 bea
 beatrice
@@ -235,12 +248,17 @@ biadmin
 bigma
 bill
 billie
+billing
 bin
 biology
 bios
 bird
 bitch
 bitnami
+bitnami
+bitrix
+bitrix
+biuro
 biz
 bj
 bkb
@@ -256,6 +274,7 @@ bogdan
 book
 boot
 boris
+boss
 bot
 bouncer
 bounceweb1
@@ -328,6 +347,7 @@ caroline
 carrie
 carsten
 carter
+carter
 casey
 cassandra
 cat
@@ -380,6 +400,7 @@ clamav
 clara
 clare
 clark
+clasic
 class
 claude
 claudia
@@ -423,8 +444,11 @@ content
 control
 controller
 cookie
+cooper
+cop
 cora
 core
+coremail
 corine
 cornelia
 corrie
@@ -438,6 +462,7 @@ craigh
 credit
 crestel
 crimson
+criss
 cron
 crystal
 cs
@@ -449,6 +474,8 @@ csserver
 cssserver
 csvn
 ctrls
+cube
+cubie
 curis
 curt
 curtis
@@ -475,6 +502,7 @@ dan
 dana
 dani
 daniel
+daniel
 daniela
 daniele
 danny
@@ -494,6 +522,7 @@ data
 database
 date
 dave
+david
 david
 davids
 davy
@@ -578,6 +607,7 @@ diella
 dieter
 digital
 direct
+director
 disasterbot
 div
 divine
@@ -668,8 +698,10 @@ ejabberd
 elaine
 eleanor
 electrical
+eleet
 elena
 eli
+elias
 elijah
 eliot
 eliott
@@ -703,6 +735,7 @@ eppc
 eric
 erica
 erick
+erik
 erika
 ernest
 ernie
@@ -712,8 +745,11 @@ estel
 esther
 estudiante
 etc
+eth
 ethan
 Ethan
+ethernet
+Ethernet
 eugen
 eugene
 eugenia
@@ -730,6 +766,7 @@ everett
 exploit
 export
 express
+eyes
 f
 fabian
 fabien
@@ -747,6 +784,7 @@ felix
 fepbytr
 ferdinand
 ff
+fidelity
 file
 fileserver
 filip
@@ -809,6 +847,7 @@ ftpadmin
 ftp_id
 ftptest
 ftpuser
+ftpuser
 ftpuser1
 ftpusr
 fuck
@@ -869,6 +908,7 @@ gillian
 gina
 ginnie
 giovanni
+girl
 giselle
 git
 git1
@@ -895,6 +935,7 @@ gnats
 gnax
 gnu
 gnuworld
+god
 goddard
 godfrey
 gog
@@ -1014,7 +1055,9 @@ i
 ian
 ibmdb2
 ibmuser
+ice
 icecast
+icecube
 icinga
 icnanker
 id
@@ -1135,8 +1178,11 @@ joggler
 john
 johnv
 jon
+jonny
 joomla
+jordan
 jorgen
+jose
 joseph
 js
 jsclient
@@ -1185,6 +1231,7 @@ lamont
 lamp
 landscape
 last
+lctuser
 ldap
 lea
 lenovo
@@ -1198,6 +1245,7 @@ library
 libuuid
 liferay
 lila
+lincoln
 linda
 link
 linux
@@ -1210,8 +1258,11 @@ loach
 local
 localadmin
 localhost
+log
+logan
 logan
 Logan
+logger
 login
 logs
 lopes
@@ -1257,6 +1308,7 @@ mandrake
 mandy
 mani
 manis
+manju
 manny
 manohar
 mansi
@@ -1286,6 +1338,7 @@ marla
 marlin
 marlon
 maroon
+marry
 marshal
 marta
 martha
@@ -1350,7 +1403,9 @@ mhlee
 mia
 Mia
 michael
+michael
 mickey
+middleware
 miguel
 mihai
 mike
@@ -1362,6 +1417,7 @@ mint
 mirc
 miriam
 miro
+miss
 mit
 mitch
 mkdir
@@ -1391,6 +1447,8 @@ mp3
 mpress
 mq
 mqm
+mr
+msblr
 msconfig
 muh
 muhamed
@@ -1496,6 +1554,7 @@ notes
 notes2
 notice
 november
+nr
 ns
 ntp
 numerge
@@ -1528,6 +1587,7 @@ oo
 op
 open
 openbravo
+openelec
 openerp
 openerp6
 openfire
@@ -1566,6 +1626,7 @@ overlooked
 ovh
 ovhuser
 ovidiu
+owen
 owl
 own
 owned
@@ -1591,6 +1652,7 @@ partners
 party
 pascal
 password
+password
 pat
 patric
 patricia
@@ -1603,6 +1665,7 @@ pc
 pc01
 pc02
 pc1
+pc2
 peg
 peggie
 pen
@@ -1642,6 +1705,7 @@ plexuser
 pm
 pma
 pnadmin
+police
 polly
 polycom
 Polycom
@@ -1669,6 +1733,7 @@ pradeep
 pramod
 prashant
 premier
+president
 press
 presta
 prince
@@ -1687,6 +1752,7 @@ psybnc
 pt
 pub
 public
+public
 puiu
 purple
 pussy
@@ -1702,6 +1768,7 @@ quentin
 quin
 quincy
 quinton
+qw
 qwerty
 qwq
 qz
@@ -1731,6 +1798,7 @@ ranjit
 raphael
 raphaela
 raspberry
+rasplex
 ratequote
 ravikanth
 ray
@@ -1781,6 +1849,7 @@ robbie
 robby
 robert
 roberta
+roberto
 robin
 robot
 robyn
@@ -1876,8 +1945,10 @@ samantha
 samba
 sammy
 samp
+samp03
 samples
 samsung
+samuel
 samuel
 sandbox
 sandeep
@@ -1898,11 +1969,13 @@ sasha
 saslauth
 saturday
 savanna
+sc
 scan
 scanner
 scarlet
 scarlett
 scetuser
+school
 science
 scot
 scott
@@ -1961,6 +2034,7 @@ shit
 shop
 short
 shoutcast
+shrikanth
 shutdown
 sid
 sidney
@@ -1998,6 +2072,7 @@ snow
 so360
 soc
 sockd
+socks
 sofia
 Sofia
 sofie
@@ -2031,6 +2106,7 @@ sql
 squid
 src
 srcnet
+srl
 srudent
 ss
 ssh
@@ -2057,6 +2133,7 @@ stela
 stella
 steph
 stephen
+steptech
 steve
 steven
 stewart
@@ -2073,6 +2150,7 @@ student2
 student3
 students
 su
+sua
 subversion
 sue
 sugar
@@ -2113,6 +2191,7 @@ syno
 synon
 sys
 sysadmin
+sysadmin
 sysop
 system
 systemlocaluser
@@ -2128,8 +2207,10 @@ tasha
 tatiana
 tax
 taylor
+tc
 tcpdump
 tcs
+tcspwceoe
 teacher
 team
 teamsp3ak
@@ -2143,6 +2224,7 @@ tecmint
 ted
 teddy
 tedial
+telecom
 telnet
 telnetd
 temp
@@ -2252,6 +2334,9 @@ trade
 training
 transfer
 travis
+treasury1
+treasury4
+treasury5
 treino
 trent
 trevor
@@ -2270,6 +2355,7 @@ ts3server
 ts3srv
 ts3user
 tsserver
+tst
 tt
 ttf
 ttt
@@ -2286,10 +2372,13 @@ two
 tyler
 u
 ubnt
+ubnt
 ubuntu
+Ubuntu
 ubuntu10
 ubunu
 ucpss
+uid
 uk
 unclaimed
 undergroud
@@ -2349,9 +2438,11 @@ video
 view
 vik
 vikas
+vikrot
 viktor
 viktoria
 vinay
+vincent
 violet
 virus
 virusalert
@@ -2384,6 +2475,8 @@ webadmin
 webalizer
 webcam
 webftp
+webftp
+weblogic
 weblogic
 webmaster
 webpage
@@ -2434,6 +2527,7 @@ xerox
 xfs
 xgridagent
 xgridcontroller
+xiao
 xmlrpc
 xs
 xujian
@@ -2453,6 +2547,7 @@ year
 yellow
 yoda
 yoga
+yu
 yusuf
 yuvraj
 yuya
@@ -2473,5 +2568,6 @@ zope
 zori
 zq
 zuoshuwen
+zx
 zz
 zzz
