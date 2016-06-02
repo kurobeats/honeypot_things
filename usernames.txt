@@ -1016,6 +1016,7 @@ elmer
 elmo
 elsa
 else
+elsearch
 elton
 elvis
 elyzabeth
@@ -1758,6 +1759,8 @@ jazmin
 jboss
 jcastillo
 jchampine
+jcseg
+jcseg-server
 jdavila
 jeff
 jekins
@@ -1906,6 +1909,7 @@ kritchel
 kscott
 kundan
 kwong
+kyle
 l
 lab
 laboratory
@@ -1915,6 +1919,7 @@ lamint
 lamont
 lamp
 landscape
+laozhao
 larisa
 last
 laura
@@ -1938,6 +1943,7 @@ liferay
 lightdm
 lila
 liliana
+linaro
 lincoln
 linda
 link
@@ -3537,6 +3543,7 @@ yangochao
 yann
 yarn
 yaroslav
+yasas
 year
 yefim
 yegor
