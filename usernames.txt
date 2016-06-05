@@ -110,6 +110,7 @@ ajay
 ak47
 akash
 akatana
+Ake
 akhan
 akihoro
 akos
@@ -2011,6 +2012,7 @@ logan
 Logan
 logger
 login
+logout
 logs
 lopes
 lorand
@@ -2019,8 +2021,10 @@ lorinc
 lost+found
 love
 lp
+lpa
 lpadm
 lpadmin
+lpd
 lreyes
 ls
 ltelles
@@ -2585,6 +2589,8 @@ pkihara
 play
 plcmspip
 PlcmSpIp
+PlcmSpIp1
+PlcmSpIp2
 plesk
 plex
 plexuser
@@ -3027,6 +3033,7 @@ smart
 smbugu
 smbuser
 smcadmin
+smith
 smithsi
 smmsp
 sndoto
@@ -3436,6 +3443,7 @@ update
 upgtest
 upload
 uploader
+url
 us
 usa
 usbmux
