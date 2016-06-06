@@ -637,6 +637,7 @@ clerk
 clfs
 clickbait
 clickbuy
+client
 cliff
 clinton
 cliuser
@@ -896,6 +897,8 @@ dn
 dndichu
 dni
 dnjenga
+dns
+dns1
 dnscache
 dnsmasq
 dnyakundi
@@ -2218,6 +2221,7 @@ miksa
 milan
 milena
 mindtouch
+minecraf
 minecraft
 ming
 mint
@@ -2420,6 +2424,7 @@ ntp
 numerge
 nuucp
 nvidia
+nvp
 nyanga
 o
 o360adm
@@ -2578,6 +2583,7 @@ phuket
 physics
 pi
 picasso
+pil
 pink
 piranha
 piri
@@ -3053,6 +3059,7 @@ sofie
 sofiya
 soft
 softvij
+solaris
 solr
 somesecguy
 sonar
