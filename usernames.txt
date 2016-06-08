@@ -2,6 +2,7 @@
 0
 00089
 1
+11
 12
 123
 123123
@@ -12,10 +13,12 @@
 12345678
 12345678
 123456789
+1q
 2
 22
 2JET
 3
+33
 4
 45.55.6.129:root:password
 5
@@ -90,6 +93,7 @@ adorjan
 adrian
 adriana
 adrienn
+advanced
 advent
 afd
 affirmed
@@ -131,6 +135,7 @@ albert
 alberta
 albertha
 albertina
+alberto
 albina
 albine
 album
@@ -247,6 +252,7 @@ annemarie
 anneswa
 annie
 annika
+annmarie
 annuska
 anon
 anonimus
@@ -265,6 +271,7 @@ anto
 anton
 antonia
 antonina
+antonio
 antony
 aogola
 aombeva
@@ -292,10 +299,14 @@ aranganathan
 aranka
 arbab
 arch
+archive
+archivo
 arend
 ariane
+ariel
 arisztid
 armin
+army
 arndt
 arne
 arnfried
@@ -446,6 +457,7 @@ bjorn
 bk
 bkb
 black
+blackdude
 blackhat
 blake
 blanka
@@ -537,6 +549,8 @@ cactiuser
 caecilia
 cafeuser
 caitlen
+caixa
+caja
 caleb
 caltech
 calvin
@@ -546,6 +560,7 @@ camera
 cameron
 camouflaged
 canna
+capital
 car
 cara
 card
@@ -575,6 +590,7 @@ catalog
 catego
 catherine
 cathrin
+cathy
 catrin
 cc
 ccc
@@ -609,6 +625,7 @@ cher
 chester
 chile
 china
+chino
 chip
 chishin
 chloe
@@ -730,6 +747,7 @@ csaba
 csenge
 csgo
 csgoserver
+csgosrv
 csilla
 csm
 css
@@ -738,6 +756,7 @@ csserver1
 csserver2
 csserver3
 cssserver
+cstrike
 csvn
 ctrls
 cube
@@ -985,6 +1004,7 @@ dwight
 dylan
 e
 eachbytr
+eagle
 eaguilar
 earl
 earleen
@@ -1138,6 +1158,7 @@ ethan
 Ethan
 ethernet
 Ethernet
+etherpad
 etrrbi
 eualia
 eufrozina
@@ -1249,6 +1270,7 @@ forum
 foster
 fot
 foto
+fotos
 four
 fox
 fptuser
@@ -1657,6 +1679,7 @@ hosting
 hostmaster
 hotel
 hotels
+house
 howard
 hplip
 hscroot
@@ -1789,6 +1812,7 @@ isabelle
 isaiah
 isolated
 isp
+isriordan
 issue
 istvan
 it
@@ -1826,6 +1850,7 @@ jane
 janet
 jani
 janika
+janine
 jannine
 janos
 january
@@ -1864,6 +1889,7 @@ jeno
 jeny
 jerry
 jesse
+jessica
 jessie
 jesus
 JET
@@ -1886,10 +1912,12 @@ jmuthama
 jmuthusi
 jmwangi
 joe
+joel
 joggler
 johanna
 john
 johnv
+jojo
 jola
 jolan
 jolanka
@@ -1900,6 +1928,7 @@ jonny
 jonyimbo
 joomla
 jordan
+jorge
 jorgen
 jose
 josefa
@@ -1913,8 +1942,10 @@ js
 jsclient
 jsmith
 jsserver
+juan
 juanc
 judit
+judith
 juli
 julia
 julian
@@ -1972,6 +2003,7 @@ kinga
 kippo
 kiran
 kishori
+kiss
 kitti
 kk
 kkariuki
@@ -2027,6 +2059,7 @@ lazslo
 lctuser
 ldap
 lea
+lee
 lenovo
 leo
 leonid
@@ -2038,7 +2071,9 @@ liam
 Liam
 lib
 library
+libretto
 libuuid
+lidia
 liferay
 lightdm
 lila
@@ -2076,6 +2111,7 @@ logs
 lopes
 lorand
 lorant
+lorena
 lorinc
 lost+found
 love
@@ -2093,6 +2129,7 @@ luca
 lucas
 lucent
 luckyvega
+luis
 lujza
 lukacs
 lukas
@@ -2123,6 +2160,7 @@ magenta
 magento
 maggie
 magic
+magician
 magnos
 mahesh
 mail
@@ -2130,6 +2168,7 @@ mailboxes
 mailman
 maint
 makar
+maker
 malcom
 man
 manager
@@ -2142,6 +2181,7 @@ manjunatha
 manny
 manohar
 mansi
+mantest
 mantis
 manuel
 mapred
@@ -2149,9 +2189,11 @@ mara
 marat
 marc
 marcel
+marcela
 marcell
 march
 marci
+marck
 marco
 marcos
 marcus
@@ -2161,6 +2203,7 @@ marfida
 marfusha
 margaret
 margareta
+margie
 margit
 margita
 mari
@@ -2267,6 +2310,7 @@ mia
 Mia
 michael
 michael
+michelle
 mickey
 microdev
 middleware
@@ -2460,6 +2504,7 @@ nixcraft
 nkinyanjui
 nload
 nmis
+nmrsu
 nmwangi
 nn
 nnjoki
@@ -2592,6 +2637,7 @@ pablo
 pace
 page
 paige
+paint
 pal
 palash
 pam
@@ -2605,6 +2651,7 @@ parcy
 pardeep
 park
 parker
+parking
 partners
 party
 pascal
@@ -2686,6 +2733,7 @@ pnjeri
 pobiero
 police
 polina
+poll
 pollinate
 polly
 polycom
@@ -2731,7 +2779,9 @@ pro
 pro1
 pro2
 pro3
+proba
 product
+professor
 project
 projectpier
 projects
@@ -2775,6 +2825,7 @@ qz
 r
 r00t
 r00t1ng
+rabbit
 rabbitmq
 rachel
 rack
@@ -2797,6 +2848,7 @@ ralph
 ramon
 randall
 random
+randy
 ranjeet
 ranjit
 raphael
@@ -2907,6 +2959,7 @@ root4
 rootalias
 ROOT.PRAF
 ros
+rosa
 rosaleen
 rosalin
 rosaline
@@ -2937,6 +2990,7 @@ rozsa
 rozsi
 rpc
 rpcuser
+rpm
 rppt
 rr
 rrashid
@@ -2947,6 +3001,7 @@ rtkit
 rts
 ruben
 ruby
+rubystar
 rudi
 rudolf
 rudolph
@@ -2966,7 +3021,9 @@ ryana
 ryder
 ryley
 s
+s1
 s3ftp
+sabina
 sabrina
 sad
 sal
@@ -2974,6 +3031,7 @@ salamon
 sales
 sales1
 sally
+salva
 salvatore
 sam
 samantha
@@ -3134,8 +3192,10 @@ smcadmin
 smith
 smithsi
 smmsp
+smoke
 sndoto
 sniff
+sniffer
 snjuguna
 snoop
 snoopy
@@ -3151,6 +3211,7 @@ sofie
 sofiya
 soft
 softvij
+software
 solaris
 solr
 somesecguy
@@ -3165,6 +3226,7 @@ sophia
 Sophia
 sophie
 soporte
+Sorin
 sourav
 south
 souvik
@@ -3227,6 +3289,7 @@ stela
 stella
 stepan
 steph
+stephane
 stephen
 steptech
 steve
@@ -3265,6 +3328,7 @@ super
 superadmin
 supervisor
 suporte
+suporttest
 support
 supporttest
 sus
@@ -3277,6 +3341,8 @@ suse
 suser
 susie
 suzan
+suzanne
+suzi
 svetlana
 svn
 swathi
@@ -3290,6 +3356,7 @@ sylvia
 symfony
 syn
 sync
+syncro
 syno
 synon
 sys
@@ -3310,10 +3377,12 @@ szilveszter
 szilvia
 t
 t1na
+taller
 tamara
 tamas
 tanaka
 tania
+tanya
 tar
 tara
 taras
@@ -3353,6 +3422,7 @@ teddy
 tedial
 tele
 telecom
+telephone
 telnet
 telnetd
 temp
@@ -3565,6 +3635,7 @@ usa
 usbmux
 user
 User
+user0
 user01
 user02
 user03
@@ -3683,6 +3754,7 @@ webadmin
 webalizer
 webcam
 webdb
+webdev
 webftp
 webftp
 weblogic
@@ -3707,6 +3779,7 @@ whitehat
 whmcs
 whoobsie
 whoopsie
+wii
 wiki
 wildfly
 william
@@ -3723,6 +3796,7 @@ wmburu
 wmwithi
 wnn
 wochola
+wolf
 wolwerine
 word
 wordpress
