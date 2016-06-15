@@ -603,6 +603,7 @@ caja
 caleb
 caltech
 calvin
+camden
 camelia
 camellia
 camera
@@ -632,6 +633,7 @@ carsten
 carter
 carter
 casey
+cashier
 cassandra
 cassiopeia
 cat
@@ -1426,6 +1428,7 @@ fschury
 ftp
 ftp1
 ftpadmin
+ftpguest
 ftp_id
 ftptest
 ftpuser
@@ -2360,6 +2363,7 @@ lynx
 lyubov
 lyudmila
 m
+ma1l
 mac
 machine
 maciek
@@ -3731,6 +3735,7 @@ szilveszter
 szilvia
 t
 t1na
+t3st
 taller
 tamara
 tamas
@@ -3878,6 +3883,7 @@ tod
 todd
 todor
 token
+tokend
 tom
 tomaso
 tomasz
