@@ -55,6 +55,7 @@ accounting
 accounts
 accserver
 ace
+aceonics
 acer
 achim
 acid
@@ -212,6 +213,7 @@ amember
 american
 amin
 amit
+amosdev
 amresh
 ams
 amssys
@@ -558,6 +560,7 @@ bruce
 brunhild
 brunhilde
 bruno
+BruteSSH
 bryan
 bryce
 bsd
@@ -926,6 +929,7 @@ debasmita
 debbie
 debby
 debian
+debian-spamd
 debora
 deborah
 debug
@@ -997,6 +1001,7 @@ dietlinde
 dietmar
 dietrich
 digital
+digitalocean
 direccion
 direct
 director
@@ -1030,6 +1035,7 @@ dolores
 dolph
 domain
 domains
+dominic
 dominick
 dominik
 domonkos
@@ -1064,6 +1070,7 @@ dragon
 dreher
 drew
 droopy
+dropbox
 drupal
 dsmuser
 dspace
@@ -1346,6 +1353,7 @@ five
 flanamacca
 flash
 fld
+flex
 flora
 florence
 florentina
@@ -1572,6 +1580,7 @@ git3
 gitadmin
 github
 gitlab
+gitlab-psql
 gitolite
 gitosis
 gitta
@@ -1689,6 +1698,7 @@ hades
 hadoop
 hagen
 hailey
+HaitaTeam
 hajna
 hajnal
 hajnalka
@@ -1913,6 +1923,7 @@ ina
 include
 incognito
 incoming
+incorta
 index
 india
 indiana
@@ -2125,6 +2136,7 @@ jozsi
 jozsua
 js
 jsclient
+jsenar
 jsmith
 jsserver
 juan
@@ -2298,6 +2310,7 @@ lions
 lisa
 list
 live
+liwei
 liza
 lizaveta
 lkihara
@@ -2342,6 +2355,7 @@ luan
 luc
 luca
 lucas
+lucene
 lucent
 lucifer
 lucius
@@ -2494,6 +2508,7 @@ maurice
 mauricio
 mauro
 maurta
+maven
 max
 maxided
 maxim
@@ -2644,6 +2659,7 @@ mumble
 muraki
 murphy
 music
+muzammil
 mv
 mvts
 mwkamau
@@ -2714,6 +2730,7 @@ netlink
 netopia
 netscreen
 netstat
+netuser
 netweb
 network
 network1
@@ -2875,6 +2892,7 @@ oratest
 orban
 orcale
 orders
+orion
 orsolya
 osborn
 osborne
@@ -2976,6 +2994,7 @@ petitto
 petra
 pgbouncer
 pgsql
+phantombot
 phil
 philip
 phillip
@@ -2993,6 +3012,7 @@ pi
 piano
 picasso
 pico
+pig
 pil
 ping
 pink
@@ -3225,6 +3245,7 @@ ripley
 rita
 ritchie
 rje
+rjzheng
 rkassim
 rob
 robbie
@@ -3529,6 +3550,7 @@ smith
 smithsi
 smmsp
 smoke
+smtp
 sndoto
 sniff
 sniffer
@@ -3650,7 +3672,9 @@ storwatch
 stpi
 strange
 stress
+stresser
 string
+struts
 stu
 stuart
 student
@@ -4115,6 +4139,7 @@ vscan
 vsevolod
 vtiger
 vuln
+vultr
 vv
 vweru
 vyacheslav
@@ -4163,6 +4188,7 @@ wendy
 west
 wget
 whatsis
+whisky
 white
 whitehat
 whmcs
@@ -4201,6 +4227,7 @@ workstation
 workstations
 wow
 wp
+wuanran
 ww
 www
 www1
@@ -4210,6 +4237,7 @@ www-data
 wwwrun
 www-ssl
 wwwuser
+wyatt
 x
 xaplolicymgr
 xatt
@@ -4252,6 +4280,7 @@ yoga
 yogeshj
 yogeshv
 yoshida
+yotta
 youtube
 yu
 yulia
