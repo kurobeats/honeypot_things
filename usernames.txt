@@ -59,6 +59,7 @@ aceonics
 acer
 achim
 acid
+activemq
 ada
 adabas
 adalbert
@@ -924,6 +925,7 @@ db4web
 dbadmin
 dbase
 dbseller
+dbus
 dbuser
 dc
 dd
@@ -1719,6 +1721,7 @@ halt
 hama
 hamilton
 hammer
+handoop
 hank
 hanke
 hanna
@@ -2109,6 +2112,7 @@ jkamande
 jkamende
 jkapkea
 jkarimi
+jmcgrath
 jmelchor
 jmuli
 jmurphy
@@ -3213,6 +3217,7 @@ reagan
 rebecca
 rebeka
 reboot
+reception
 reconized
 record
 records
@@ -3674,6 +3679,7 @@ steam1
 stef
 stefan
 stefania
+stefna
 stela
 stella
 stepan
@@ -3686,6 +3692,7 @@ steve
 steven
 stewart
 stf
+stkop_is
 storm
 storwatch
 stpi
@@ -4105,6 +4112,7 @@ vera
 veronica
 veronika
 veronique
+verwalter
 vi
 vic
 victor
