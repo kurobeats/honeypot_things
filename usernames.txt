@@ -1979,6 +1979,7 @@ interbase
 internet
 Internet
 inventory
+Iochinus
 ios
 iosif
 ip
@@ -2852,6 +2853,7 @@ notes2
 notice
 november
 nr
+nrpe
 nrvstor
 ns
 ns2
@@ -3638,6 +3640,7 @@ sophia
 Sophia
 sophie
 soporte
+Soporte
 Sorin
 sound
 sourav
@@ -3987,6 +3990,7 @@ top
 topic
 tor
 torrent
+Toshiba
 toto
 tplink
 tpuser
