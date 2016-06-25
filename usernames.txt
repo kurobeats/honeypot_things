@@ -15,6 +15,7 @@
 12345678
 123456789
 12345678^M
+1502
 1q
 2
 22
@@ -155,10 +156,13 @@ administrator
 Administrator
 adminjel
 admins
+adminstat
 adminuser
+adminview
 admissions
 admit
 admln
+ADMN
 ado
 adolf
 adolph
@@ -292,6 +296,7 @@ albina
 albine
 album
 alec
+alecto
 aleida
 aleit
 aleks
@@ -400,6 +405,7 @@ anja
 anke
 ankit
 ankur
+ann
 anna
 annabella
 anne
@@ -433,7 +439,9 @@ antonia
 antonina
 antonio
 antony
+anusha
 anushreem
+Any
 any@\r
 aogola
 aombeva
@@ -579,6 +587,8 @@ batman
 bayo
 bb
 bbsd-client
+bciim
+bcms
 bcnas
 bd
 bdo
@@ -589,6 +599,7 @@ beata
 beate
 beatrice
 beatrix
+beatriz
 beavis
 beheer
 beierl
@@ -681,6 +692,7 @@ books
 boot
 borbala
 bordrcm
+borg
 boris
 boss
 bot
@@ -729,6 +741,7 @@ budget
 buffy
 bug
 bugzilla
+buhgltr
 build
 burchard
 burkhard
@@ -752,6 +765,7 @@ cable
 cablecom
 cablemodem
 cabox
+cac_admin
 cacadmin\r
 cacilia
 cacilie
@@ -780,6 +794,7 @@ card
 carina
 carl
 carla
+carlito
 carlitos
 carlos
 carlton
@@ -843,6 +858,7 @@ checkfsys
 checksys
 chemistry
 cher
+chernova
 chester
 chile
 china
@@ -957,6 +973,7 @@ cord
 cordula
 core
 corecess
+corecess\r
 coremail
 corina
 corine
@@ -988,7 +1005,9 @@ cron
 crystal
 cs
 csaba
+cse
 csenge
+CSG
 csgo
 csgoserver
 csgosrv
@@ -1009,6 +1028,7 @@ cubie^M
 curis
 curt
 curtis
+cusadmin
 custom
 customer
 cvs
@@ -1118,6 +1138,7 @@ delphine
 delta
 deluge
 demeter
+demidenko
 demo
 demo1
 demo2
@@ -1142,6 +1163,7 @@ desktop
 desmond
 desolate
 desop
+despatch
 destiny
 detlef
 dev
@@ -1159,6 +1181,7 @@ dfk
 dharmitab
 dhcp
 dhcpx
+dhs3mt
 diana
 diane
 dibinda
@@ -1191,6 +1214,7 @@ dl
 D-Link
 dmakena
 dmccormack
+dmitriy
 dmitry
 dms
 dn
@@ -1271,6 +1295,7 @@ dwight
 dylan
 e
 e250
+e500
 e500changeme\r
 eachbytr
 eagle
@@ -1315,6 +1340,7 @@ edward
 edwin
 edy
 ee
+ef
 egg
 eggdrop
 egghead
@@ -1397,6 +1423,7 @@ enganga
 engel
 engelbert
 eniko
+enquiry
 enrique
 eoffice
 eombuki
@@ -1427,6 +1454,7 @@ erzsi
 es
 esmail
 esmith
+esponja
 estel
 esther
 estudiante
@@ -1474,6 +1502,7 @@ export
 express
 eyes
 f
+f2zubac
 fabian
 fabien
 fabio
@@ -1690,6 +1719,7 @@ geena
 geert
 geffrey
 gellert
+GEN2
 gene
 genesis
 genevieve
@@ -1698,6 +1728,7 @@ geo
 geoadmin
 geoffrey
 geography
+geometr
 georg
 george
 georgia
@@ -1734,6 +1765,7 @@ gertrude
 gerulf
 gervas
 geza
+gf
 gfep
 gg
 ggitau
@@ -1785,6 +1817,7 @@ glftpd
 global
 globus
 gloria
+gmo
 gmod
 gmodservercustom
 gnats
@@ -1895,6 +1928,7 @@ hama
 hamilton
 hammer
 handoop
+handtuch
 hank
 hanke
 hanna
@@ -1958,6 +1992,7 @@ hellen
 hellena
 hello
 HELLO
+hello\r
 helma
 helmfried
 helmine
@@ -2016,6 +2051,7 @@ hmsftp
 hmugo
 ho
 hoge
+hohokus
 holding
 hollycrm
 home
@@ -2112,6 +2148,7 @@ imrus
 imundt
 in
 ina
+inads
 include
 incognito
 incoming
@@ -2201,6 +2238,7 @@ ivanovich
 ivory
 izabella
 izidora
+izmerenie
 izsak
 j
 jabber
@@ -2214,6 +2252,7 @@ jacob
 Jacob
 jade
 jadlog
+jaf
 jaguar
 jaimie
 jakab
@@ -2306,6 +2345,7 @@ joe
 joel
 joggler
 johan
+johana
 johanna
 john
 johnny
@@ -2358,6 +2398,7 @@ jwanza
 k
 k3rs
 kabincha
+kachan
 kafka
 kajetan
 kali
@@ -2380,6 +2421,7 @@ katalinka
 katarina
 kate
 katerina
+katerine
 katharina
 katherine
 kathy
@@ -2402,6 +2444,7 @@ kernel
 kernoops
 kevin
 keyang
+kf
 kfaysal
 khushabur
 khzaw
@@ -2410,6 +2453,7 @@ kim
 kinga
 kippo
 kiran
+kishan
 kishori
 kiss
 kitti
@@ -2447,11 +2491,13 @@ kristof
 krisztian
 krisztina
 kritchel
+krp
 kscott
 kuang
 kunal
 kundan
 kusum
+kuznetsova
 kwong
 kyle
 kym
@@ -2478,6 +2524,7 @@ ldap
 lea
 lee
 legal
+legend
 lenovo
 lensay
 leo
@@ -2563,6 +2610,8 @@ luca
 lucas
 lucene
 lucent
+LUCENT01
+LUCENT02
 lucifer
 lucius
 lucky
@@ -2583,6 +2632,7 @@ lynx
 lyubov
 lyudmila
 m
+m1122
 ma1l
 mac
 machine
@@ -2618,6 +2668,7 @@ maker
 malcom
 man
 manager
+Manager
 MANAGER
 manasip
 mandrake
@@ -2766,6 +2817,8 @@ merry
 messagebus
 meteo
 metin2
+metrsit
+mett
 mexico
 mfs
 mgithinji
@@ -2776,6 +2829,7 @@ mia
 Mia
 michael
 michael^M
+michelangelo\r
 michelle
 mickey
 microdev
@@ -2885,6 +2939,7 @@ mvts
 mwkamau
 my
 mya
+my_DEMARC\r
 myslq
 mysql
 mysqladmin
@@ -2935,6 +2990,7 @@ ncsnmpd
 ncuser
 ndtv
 neal
+nebylcov
 ned
 neil
 nellie
@@ -3036,6 +3092,7 @@ notes
 notes2
 notice
 november
+npv
 nr
 nrpe
 nrvstor
@@ -3133,6 +3190,7 @@ osmc
 osvaldo
 oswald
 oszkar
+ot
 otrs
 otto
 out
@@ -3141,6 +3199,7 @@ outdoors
 outlook
 overlooked
 ovh
+OVH
 ovhuser
 ovidiu
 ovrimos
@@ -3180,6 +3239,7 @@ party
 pascal
 password
 password^M
+password\r
 pat
 patience
 patric
@@ -3210,6 +3270,7 @@ pen
 penelope
 penny
 pentagon
+peo
 pepe
 percy
 perfectworld
@@ -3321,6 +3382,7 @@ press
 presta
 presto
 preuba
+prihodko
 prime
 primenet
 prince
@@ -3335,6 +3397,7 @@ pro2
 pro3
 proba
 process
+PRODDTA
 product
 professor
 profile
@@ -3419,6 +3482,8 @@ ranjeet
 ranjit
 raphael
 raphaela
+rapport
+rasagna
 raspberry
 rasplex^M
 ratequote
@@ -3427,6 +3492,7 @@ ray
 raymond
 rdp
 rds
+readonly
 reagan
 rebecca
 rebeka
@@ -3534,6 +3600,7 @@ root1
 root2
 root3
 root4
+ROOT500\r
 rootalias
 ROOT.PRAF
 rooy
@@ -3598,6 +3665,7 @@ russel
 ruth
 ruthie
 rvadmin
+rwa\r
 rw\r
 ryan
 ryana
@@ -3658,6 +3726,7 @@ saturday
 savanna
 sbawazir
 sbin
+sbis
 sboehringer
 sc
 scan
@@ -3731,6 +3800,7 @@ sharathd
 share
 sharleen
 sharon
+sharp
 shaun
 shawna
 shefali
@@ -3833,6 +3903,7 @@ Sophia
 sophie
 soporte
 Soporte
+soraya
 Sorin
 sound
 sourav
@@ -3858,6 +3929,7 @@ spencer
 sphinx
 spider
 spike
+SpIp\r
 splash
 splunk
 sponsor
@@ -3882,6 +3954,7 @@ sshuang
 sshuser
 ssjangter
 ssladmin
+sss
 stacee
 stacey
 stacie
@@ -4071,8 +4144,10 @@ temp1
 tempo
 tempuser
 ten
+tendai
 teodor
 teodora
+teplo
 terance
 terence
 teresa
@@ -4141,7 +4216,9 @@ tiborc
 tiffany
 tigase
 tiger
+tiger123\r
 tigger
+tihova
 tim
 time
 timea
@@ -4161,6 +4238,7 @@ to
 toby
 tod
 todd
+toddl
 todor
 token
 tokend
@@ -4185,10 +4263,14 @@ tony
 toor
 top
 topic
+topicalt
+topicnorm
+topicres
 tor
 torrent
 Toshiba
 toto
+toxiclab
 tplink
 tpuser
 trac
@@ -4269,6 +4351,7 @@ undiscovered
 unexplained
 uniq
 unix
+unixcmd
 unknown
 unlock
 unreal
@@ -4370,6 +4453,7 @@ vim
 vinay
 vince
 vincent
+vinila
 violet
 virag
 virginia
@@ -4418,6 +4502,7 @@ wap
 warehouse
 warlock
 washington
+waw
 wayne
 web
 web1
@@ -4492,6 +4577,7 @@ workstations
 wow
 wp
 WP
+write
 wuanran
 ww
 www
@@ -4542,6 +4628,7 @@ year
 yefim
 yegor
 yellow
+yf
 yoda
 yoga
 yogeshj
@@ -4571,6 +4658,7 @@ zenoss
 zephyr
 zeus
 zha
+zhanghong
 zhangyan
 zhaowei
 zhiyi
@@ -4595,6 +4683,7 @@ zsolt
 zsuzsa
 zsuzsanna
 zsuzsi
+zubkova
 zuoshuwen
 zx
 zz
