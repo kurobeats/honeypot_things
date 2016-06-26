@@ -19,6 +19,7 @@
 1q
 2
 22
+266344
 2JET
 3
 33
@@ -588,6 +589,7 @@ bayo
 bb
 bbsd-client
 bciim
+bcim
 bcms
 bcnas
 bd
@@ -839,6 +841,7 @@ central
 centre
 cesar
 cezar
+cgadmin
 cgi
 chad
 chakra
@@ -1158,6 +1161,7 @@ desadm
 desarrollo
 design
 deskalt
+deskman
 desknorm
 desktop
 desmond
@@ -1182,6 +1186,7 @@ dharmitab
 dhcp
 dhcpx
 dhs3mt
+diag
 diana
 diane
 dibinda
@@ -1267,6 +1272,7 @@ download
 downloader
 downloads
 dragon
+draytek
 dreher
 drew
 droopy
@@ -1649,6 +1655,8 @@ ftp1
 ftpadmin
 ftpguest
 ftp_id
+ftp_inst
+ftp_nmc
 ftptest
 ftpUnited
 ftpuser
@@ -2180,6 +2188,7 @@ interbase
 intermec
 internet
 Internet
+IntraStack
 IntraSwitch
 inventory
 Iochinus
@@ -2502,6 +2511,7 @@ kwong
 kyle
 kym
 l
+l3
 lab
 laboratory
 laci
@@ -2576,6 +2586,7 @@ loach
 local
 localadmin
 localhost
+locate
 log
 logan
 Logan
@@ -2832,6 +2843,7 @@ michael^M
 michelangelo\r
 michelle
 mickey
+MICRO
 microdev
 middleware
 miguel
@@ -2921,6 +2933,7 @@ msconfig
 msdel
 msql
 mtch
+mtcl
 mu
 muh
 muhamed
@@ -2948,6 +2961,7 @@ mysterious
 mythtv
 myuser1
 n
+naadmin
 nadezhda
 nadia
 naga
@@ -3041,6 +3055,7 @@ nicholson
 nick
 nicolas
 nicole
+NICONEX
 nifi
 nigel
 nigger
@@ -3550,6 +3565,7 @@ ritchie
 rje
 rjzheng
 rkassim
+ro
 rob
 robbie
 robby
@@ -3665,6 +3681,7 @@ russel
 ruth
 ruthie
 rvadmin
+rw
 rwa\r
 rw\r
 ryan
@@ -4067,6 +4084,7 @@ synon
 sys
 sysadin
 sysadm
+SYSADM
 sysadmin
 sys_admin
 sysadmin^M
@@ -4327,6 +4345,7 @@ tutor
 tux
 tuxedo
 tv
+tw
 twiki
 two
 tyler
@@ -4418,6 +4437,7 @@ vasilevich
 vasilisa
 vasily
 vbox
+vcr
 vcsa
 velocix
 vencel
@@ -4475,6 +4495,7 @@ vmaloba
 vmuser
 vmware
 vnc
+VNC
 voxility
 voxvalley
 vpn
