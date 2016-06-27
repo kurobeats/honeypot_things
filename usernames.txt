@@ -158,6 +158,7 @@ Administrator
 adminjel
 admins
 adminstat
+adminstrator
 adminuser
 adminview
 admissions
@@ -726,6 +727,7 @@ brody
 brogyi
 brooklyn
 brown
+browse
 bruce
 brunhild
 brunhilde
@@ -1032,6 +1034,7 @@ curis
 curt
 curtis
 cusadmin
+cust
 custom
 customer
 cvs
@@ -1087,6 +1090,7 @@ dave
 david
 david^M
 davids
+davox
 davy
 dawn
 dax
@@ -1163,6 +1167,7 @@ design
 deskalt
 deskman
 desknorm
+deskres
 desktop
 desmond
 desolate
@@ -1215,6 +1220,7 @@ div
 divine
 divya
 django
+dJET
 dl
 D-Link
 dmakena
@@ -1425,6 +1431,7 @@ enabler
 encrypt
 encryption
 endre
+eng
 enganga
 engel
 engelbert
@@ -1652,6 +1659,7 @@ fruzsina
 fschury
 ftp
 ftp1
+ftp_admi
 ftpadmin
 ftpguest
 ftp_id
@@ -2301,6 +2309,7 @@ jchampine
 jcseg
 jcseg-server
 jdavila
+JDE
 jean
 jeff
 jeffchen
@@ -2644,6 +2653,7 @@ lyubov
 lyudmila
 m
 m1122
+m1122\r
 ma1l
 mac
 machine
@@ -2800,6 +2810,7 @@ mdom
 me
 meadow
 media
+mediator
 mediator\r
 meg
 mega
@@ -2885,6 +2896,7 @@ mkdir
 mkiprotich
 mktg3
 ml
+mlusr
 mm
 mmathenge
 mmcfarland
@@ -3027,6 +3039,7 @@ netstat
 netuser
 netweb
 network
+NETWORK
 network1
 netyu
 nevada
@@ -3075,10 +3088,12 @@ nload
 nmap
 nmis
 nmrsu
+nms
 nmwangi
 nn
 nnjoki
 nntp
+no
 noaccess
 noah
 Noah
@@ -3268,6 +3283,7 @@ pavan
 pavel
 payala
 payne
+PBX
 pc
 pc01
 pc02
@@ -3565,6 +3581,7 @@ ritchie
 rje
 rjzheng
 rkassim
+RMUser1
 ro
 rob
 robbie
@@ -3938,6 +3955,7 @@ spamtest
 sparc
 spark
 spartak
+spcl
 specadm
 speech-dispatcher
 speedtest
@@ -4068,6 +4086,7 @@ svn
 swapnild
 swapnilg
 swathi
+Sweex
 sybase
 sybil
 syd
@@ -4089,6 +4108,7 @@ sysadmin
 sys_admin
 sysadmin^M
 sysbin
+SYSDBA
 syslog
 sysop
 syssl
@@ -4114,6 +4134,7 @@ tanya
 tar
 tara
 taras
+target
 tarsys
 taseon
 tasha
