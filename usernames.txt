@@ -3,6 +3,7 @@
 00089
 01
 02
+0\r
 1
 11
 12
@@ -15,6 +16,7 @@
 12345678
 123456789
 12345678^M
+1234\r
 1502
 1q
 2
@@ -85,6 +87,7 @@ abunina
 abusalehsal
 abuse
 acar
+acc
 access
 account
 accountant
@@ -131,6 +134,7 @@ adelina
 adeline
 ademir
 ademkose
+adfexc\r
 adhamabd
 adigol2
 adilson
@@ -159,6 +163,7 @@ adminjel
 admins
 adminstat
 adminstrator
+adminttd
 adminuser
 adminview
 admissions
@@ -168,6 +173,7 @@ ADMN
 ado
 adolf
 adolph
+adoo
 adorjan
 adrian
 adriana
@@ -590,8 +596,10 @@ bayo
 bb
 bbsd-client
 bciim
+bciimpw\r
 bcim
 bcms
+bcmspw\r
 bcnas
 bd
 bdo
@@ -768,6 +776,7 @@ caagov
 cable
 cablecom
 cablemodem
+cableroot\r
 cabox
 cac_admin
 cacadmin\r
@@ -948,6 +957,7 @@ collin
 colord
 colton
 columbia
+comcast
 comercial
 common
 complex
@@ -1435,6 +1445,7 @@ eng
 enganga
 engel
 engelbert
+engineer\r
 eniko
 enquiry
 enrique
@@ -1735,6 +1746,7 @@ geena
 geert
 geffrey
 gellert
+GEN1
 GEN2
 gene
 genesis
@@ -2187,6 +2199,7 @@ ingomar
 ingres
 ingrid
 ingspva
+init
 inrene
 install
 installer
@@ -2536,6 +2549,7 @@ larisa
 last
 laura
 laurence
+lawyer
 lazar
 lazslo
 lctuser
@@ -2684,6 +2698,7 @@ mailboxes
 mailman
 mailnull
 maint
+maintpw\r
 makar
 maker
 malcom
@@ -2704,6 +2719,7 @@ mansi
 mantest
 mantis
 manuel
+manuf
 mapred
 mara
 marat
@@ -3030,6 +3046,7 @@ netapp
 netbackup
 netdiag
 netlink
+netman\r
 netopia
 netopia\r
 netrangr
@@ -3041,6 +3058,7 @@ netweb
 network
 NETWORK
 network1
+NETWORK\r
 netyu
 nevada
 never
@@ -3143,6 +3161,7 @@ object
 obscure
 ocadmin
 ocean
+OCS\r
 octav
 octavia
 octavius
@@ -3267,6 +3286,7 @@ partner
 partners
 party
 pascal
+pass\r
 password
 password^M
 password\r
@@ -3480,6 +3500,7 @@ qwerty
 qwq
 qz
 r
+******\r
 r00t
 r00t1ng
 rabbit
@@ -3592,6 +3613,7 @@ roberto
 robi
 robin
 robot
+robotics\r
 robyn
 rocco
 rocky
@@ -3855,6 +3877,7 @@ shogringer
 shop
 short
 shoutcast
+shoutchast
 shrikanth
 shutdown
 sid
@@ -4174,6 +4197,7 @@ tedial
 tele
 telecom
 telecomadmin
+telecomadmin\r
 telephone
 TELESUP\r
 telnet
@@ -4214,6 +4238,7 @@ test16
 test17
 test18
 test19
+test1\r
 test2
 test20
 test3
@@ -4371,6 +4396,7 @@ twiki
 two
 tyler
 u
+ubisoft
 ubnt
 ubnt^M
 ubuntu
@@ -4504,6 +4530,7 @@ virusalert
 visdev
 vishakhas
 visitor
+visual\r
 vitaly
 vivek
 vivekkumarmishra17
@@ -4645,6 +4672,7 @@ xfs
 xgridagent
 xgridcontroller
 xiao
+XLSERVER\r
 xmlrpc
 xrdp
 xs
