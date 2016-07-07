@@ -202,6 +202,7 @@ afigueroa
 afikbit
 afinger
 afol
+afone
 africa
 afsar
 agafya
@@ -225,6 +226,7 @@ agutierrez
 ahariton
 aharonor
 aharund
+ahmad
 ahmadhos
 ahmadkha
 ahmadnaa1
@@ -465,6 +467,7 @@ antonia
 antonina
 antonio
 antony
+antwan
 anusha
 anushreem
 Any
@@ -834,6 +837,7 @@ cacilie
 cacti
 cactiuser
 caddy
+cade
 caecilia
 cafeuser
 caitlen
@@ -1084,6 +1088,7 @@ cornitor
 corrie
 corrina
 cosinus
+coty
 couchdb
 counterstrike
 courtney
@@ -1190,6 +1195,7 @@ darkblue
 darkman
 darknes
 darla
+darrin
 darryl
 darwin
 dascal
@@ -1198,7 +1204,10 @@ data
 database
 date
 dave
+davediana
+davestewart
 david
+Davide
 david^M
 davids
 davox
@@ -2518,6 +2527,7 @@ january
 jaqueline
 jared
 jarod
+jaron
 jasmin
 jasmina
 jasmine
@@ -2533,10 +2543,12 @@ jayendra
 jazmin
 jboss
 jcastillo
+jccurtis
 jchampine
 jcseg
 jcseg-server
 jdavila
+jdcurtis
 JDE
 jean
 jeff
@@ -2579,6 +2591,7 @@ jkamande
 jkamende
 jkapkea
 jkarimi
+jlcurtis
 jmcgrath
 jmcv
 jmelchor
@@ -2768,6 +2781,7 @@ l
 l3
 la
 lab
+label
 laboratory
 laci
 laden
@@ -3157,6 +3171,7 @@ miklos
 miksa
 milan
 milena
+milton
 mindtouch
 mindy
 minecraf
@@ -3204,6 +3219,7 @@ mobile
 modem
 moderator
 module
+mohammad
 moin
 moinmoin
 mojca
@@ -3245,6 +3261,7 @@ mqm
 mr
 msblr
 msconfig
+msda
 msdel
 msql
 mtch
@@ -3382,6 +3399,7 @@ nicholas
 nichole
 nicholson
 nick
+nicoara
 nicolas
 nicole
 NICONEX
@@ -3600,6 +3618,7 @@ partner
 partners
 party
 pascal
+pass
 pass\r
 passwd
 password
@@ -3838,6 +3857,7 @@ queen
 quentin
 quin
 quincy
+quintin
 quinton
 qw
 qwerty
@@ -3902,6 +3922,7 @@ rebeka
 reboot
 receptie
 reception
+receptionist
 reconized
 record
 records
@@ -4226,6 +4247,7 @@ shah
 shamita
 shana
 shania
+shannon
 shaq
 sharathd
 share
@@ -4288,6 +4310,7 @@ skyblue
 skypeftp
 skyrix
 sl
+slayer
 slide
 slim
 sloan
@@ -4435,6 +4458,7 @@ stepan
 steph
 stephane
 stephen
+stephon
 steptech
 stereo
 steve
@@ -4604,6 +4628,7 @@ telecom
 telecomadmin
 telecomadmin\r
 telefon
+telegest
 telephone
 TELESUP\r
 telnet
@@ -4844,6 +4869,7 @@ tricia
 trinity
 trish
 tristan
+triston
 trixbox1
 trixy
 trobz
@@ -5197,7 +5223,19 @@ wiew
 wii
 wiki
 wildfly
+wilf
+wilford
+wilfre
 wilfred
+wilfredine
+wilfredo
+wilfrid
+wilfrie
+wilfried
+wilging
+wilgosh
+wilgus
+wilhart
 will
 william
 willy
