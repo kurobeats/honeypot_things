@@ -2389,6 +2389,7 @@ hxhtftp
 hybrid
 hybrid2
 hybrid_mail
+hyperic
 i
 ian
 iasi
@@ -2724,6 +2725,7 @@ jun
 jupiter
 justin
 jwanza
+jyoti
 k
 k1
 k3rs
@@ -2733,6 +2735,7 @@ kafka
 kajetan
 kali
 kalman
+kamal
 kamilla
 kanchan
 kang
@@ -3799,6 +3802,7 @@ plcmspip
 PlcmSpIp
 PlcmSpIp1
 PlcmSpIp2
+PlcmSplp
 plesk
 plex
 plexuser
@@ -5481,6 +5485,7 @@ zabbix
 zabix
 zachary
 zakhar
+zam
 zenoss
 zephyr
 zeus
