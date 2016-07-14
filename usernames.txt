@@ -19,6 +19,7 @@
 123456789
 12345678^M
 1234\r
+12wqasxz
 1502
 1q
 2
@@ -613,6 +614,7 @@ bancomer
 bandi
 bandit
 bank
+bannanapi
 banner
 baptist
 bar
@@ -2597,6 +2599,7 @@ jasmine
 jason
 java
 javauser
+javi
 jaxon
 jaxson
 jay
@@ -3206,6 +3209,7 @@ melody
 member
 members
 memcached
+memo
 memphis
 menu
 mephise
@@ -3957,7 +3961,9 @@ quin
 quincy
 quintin
 quinton
+quit
 qw
+qweasdzxc
 qwerty
 qwq
 qz
@@ -4255,6 +4261,7 @@ sandra
 sandy
 saned
 sanei
+saneke
 sanjay
 sanjeev
 santa
@@ -4565,6 +4572,7 @@ stella
 stepan
 steph
 stephane
+stephanie
 stephen
 stephon
 steptech
@@ -4956,6 +4964,7 @@ topicnorm
 topicres
 tor
 torrent
+toshiba
 Toshiba
 total
 toto
