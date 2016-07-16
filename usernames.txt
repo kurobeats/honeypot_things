@@ -142,6 +142,9 @@ adelina
 adeline
 ademir
 ademkose
+adempiere
+adernet
+adevarul
 adfexc\r
 adhamabd
 adigol2
@@ -371,6 +374,7 @@ am
 amaina
 amal
 amalia
+amalid
 amalie
 aman
 amand
@@ -639,6 +643,7 @@ batch
 batman
 bautista
 bayo
+bazaar
 bb
 bbsd-client
 bciim
@@ -961,6 +966,7 @@ chakra
 chakri
 chandler
 chandru
+chang
 changeme^M
 changeme\r
 charleene
@@ -974,10 +980,12 @@ checkfsys
 checksys
 chefclient
 chemistry
+chen
 cher
 chernova
 chester
 chetan
+chico
 chile
 china
 chino
@@ -989,6 +997,7 @@ chocolate
 choi
 chouji
 chris
+chriss
 chrissie
 christa
 christel
@@ -1223,6 +1232,7 @@ daniel^M
 daniil
 danny
 daphne
+darcs
 darcy
 daren
 daria
@@ -1322,6 +1332,7 @@ denied.<
 denis
 denise
 dennis
+dennison
 denys
 denzel
 deploy
@@ -1809,6 +1820,8 @@ flanamacca
 flash
 fld
 flex
+flink
+flinkuser
 floppy
 flora
 florence
@@ -1843,6 +1856,7 @@ forrest
 forte
 fortran
 forum
+fossil
 foster
 fot
 foto
@@ -2074,6 +2088,7 @@ gituser1
 gizella
 gizi
 gladys
+glassfis
 glassfish
 glasshfish
 gleb
@@ -2103,6 +2118,7 @@ goncalo
 good
 google
 gopher
+gophervr
 gora
 gordon
 gottfried
@@ -2189,6 +2205,8 @@ hack
 hacker
 hades
 hadoop
+hadoopuser
+hadoopusr
 hagen
 hailey
 HaitaTeam
@@ -2365,6 +2383,7 @@ howard
 hplip
 HPOFFICE\r
 hscroot
+hsiao
 hsubhadeep
 html
 <html
@@ -2497,6 +2516,7 @@ IntraSwitch
 inventory
 invidia
 Iochinus
+ionas
 ios
 iosif
 ip
@@ -2636,11 +2656,13 @@ jeremiah
 jeremy
 jerome
 jerry
+jesica
 jesse
 jessica
 jessie
 jesus
 JET
+jetty
 jgarcia
 jhester
 jhon
@@ -3215,6 +3237,7 @@ menu
 mephise
 mercedes
 merck
+mercurial
 mercury
 merlin
 merry
@@ -3315,6 +3338,7 @@ monika
 monit
 monitor
 monitoring
+monotone
 monroe
 montana
 moo
@@ -3326,6 +3350,7 @@ moric
 morpheus
 morris
 morrison
+morvion
 mos
 moscova
 moscraciun
@@ -3555,6 +3580,7 @@ ns
 ns2
 nscd
 nsrecover
+nsroot
 ntp
 nu
 numerge
@@ -3622,6 +3648,7 @@ openerp
 openerp6
 openfiler
 openfire
+openmpi
 openproject
 opensuse
 opentsdb
@@ -3652,6 +3679,7 @@ orcale
 orders
 original
 orion
+orohipo
 orsolya
 osborn
 osborne
@@ -3848,6 +3876,7 @@ porathur
 porno
 porsche
 portal
+portallogic
 portmap
 pos
 poscafetria
@@ -4055,6 +4084,7 @@ renew
 replicator
 report
 reports
+resin
 retailpos
 retailsmart
 reuben
@@ -4289,6 +4319,7 @@ sboehringer
 sc
 scan
 scanner
+scarab
 scarlet
 scarlett
 scetuser
@@ -4450,6 +4481,7 @@ smtp
 sndoto
 sniff
 sniffer
+sniper
 snjuguna
 snmp
 snoop
@@ -4649,6 +4681,7 @@ suzan
 suzanne
 suzi
 svetlana
+svk
 svn
 svsg
 swapnild
@@ -4684,6 +4717,7 @@ sysop
 syssl
 system
 systemlocaluser
+systempilot
 szabina
 szabolcs
 szandra
@@ -4965,6 +4999,8 @@ topicnorm
 topicres
 tor
 torrent
+tortoise
+tortoisesvn
 toshiba
 Toshiba
 total
@@ -5304,6 +5340,7 @@ vv
 vweru
 vyacheslav
 vyatta
+vyattad
 w
 w3master
 w6admin
@@ -5422,11 +5459,13 @@ wow
 wp
 WP
 write
+wu
 wuanran
 ww
 www
 www1
 www2
+wwwbase
 wwwdata
 www-data
 wwwrun
