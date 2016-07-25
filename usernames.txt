@@ -523,6 +523,7 @@ apache6
 apagar
 apc
 api
+apirakm
 apollo
 app
 appengine
@@ -2216,6 +2217,7 @@ gf
 gfep
 gg
 ggitau
+ggkkdev
 ghernandez
 ghost
 ghosts
@@ -2229,6 +2231,7 @@ gil
 gilbert
 gillian
 gilmestr
+g-in
 gina
 ginger
 ginnie
@@ -4998,6 +5001,7 @@ ssjangter
 ssladmin
 ssrana
 sss
+st6
 stacee
 stacey
 stacie
@@ -5167,6 +5171,7 @@ t3st
 table
 tads
 takeshita
+takeuchi
 taller
 tamara
 tamas
@@ -5511,6 +5516,7 @@ tsserver
 tst
 tt
 ttf
+ttfteam
 ttt
 tty
 tuesday
