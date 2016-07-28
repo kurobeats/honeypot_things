@@ -1656,6 +1656,7 @@ ebbe
 eberhard
 eboni
 ebony
+ec2
 ec2-user
 echo
 eckart
@@ -3452,6 +3453,7 @@ marlon
 maroon
 marry
 mars
+marsboard
 marshal
 marta
 martha
@@ -4341,6 +4343,7 @@ public
 PUBLIC
 public^M
 public\r
+puebra
 puiu
 pulse
 pupa
@@ -4563,6 +4566,7 @@ roosevelt1
 root
  root
 :root
+root 
 Root
 RooT
 ROOT
@@ -4780,6 +4784,7 @@ serial
 serials
 serv
 server
+server1
 servercsgo
 serverpilot
 servers
@@ -4806,6 +4811,7 @@ shadmin
 shadow
 shadows
 shah
+sham
 shamita
 shana
 shania
@@ -5332,6 +5338,7 @@ thay
 the
 theif
 thelma
+                theme
 theo
 theodora
 theodore
@@ -5561,6 +5568,7 @@ u
 ubisoft
 ubnt
 ubnt^M
+ubstep
 ubuntu
 Ubuntu
 ubuntu10
@@ -5616,6 +5624,7 @@ user5
 user8
 user9
 userdb
+usere
 userftp
 usergrid
 USERID
@@ -5655,6 +5664,7 @@ vance
 vanesa
 vanessa
 vargant
+vargrant
 varnish
 varsha
 varvara
@@ -5991,6 +6001,7 @@ xbox
 xbox\r
 xchat
 xd
+\xd0root
 xerces
 xerox
 xfs
@@ -6100,5 +6111,6 @@ zucal
 zuoshuwen
 zx
 zxcv
+zxin10
 zz
 zzz
