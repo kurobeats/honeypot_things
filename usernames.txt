@@ -1278,6 +1278,7 @@ cserv
 cservice
 CSG
 csgo
+csgoserevr
 csgoserver
 csgosrv
 csilla
@@ -3995,6 +3996,7 @@ ononon
 oo
 oodt
 oot
+OOT
 oozie
 op
 opc
@@ -4724,6 +4726,7 @@ savanna
 sbawazir
 sbin
 sbis
+sbn
 sboehringer
 sc
 sc1
