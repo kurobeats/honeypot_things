@@ -94,6 +94,7 @@ abunin
 abunina
 abusalehsal
 abuse
+acap
 acar
 acc
 access
@@ -592,6 +593,7 @@ ask
 asterisk
 astrid
 asya
+atan
 atelier
 atendimento
 athena
@@ -4465,6 +4467,7 @@ regina
 reiner
 release
 remote
+remy
 renan
 renanc
 renata
@@ -5243,6 +5246,7 @@ teamspeak3
 teamspeak3-user
 teamspeak4
 teamspeak5
+TeamSpek
 tear
 teca
 tech
