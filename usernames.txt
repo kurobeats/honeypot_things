@@ -97,6 +97,7 @@ abuse
 acap
 acar
 acc
+acces
 access
 Access
 account
@@ -852,6 +853,7 @@ brandon
 brasov
 braspress2
 brayden
+braz
 brazil
 brenda
 bret
@@ -3296,6 +3298,7 @@ lucene
 lucent
 LUCENT01
 LUCENT02
+luci
 lucifer
 lucius
 lucky
@@ -4029,6 +4032,7 @@ oprofile
 ops
 opyu
 or
+ora
 ora11
 oracle
 oracle123
@@ -5581,6 +5585,7 @@ ubuntu
 Ubuntu
 ubuntu10
 ubunu
+ubutu
 ucpss
 uid
 uima
@@ -5991,6 +5996,8 @@ ww
 www
 www1
 www2
+wwwadmin
+www-admin
 wwwbase
 wwwdata
 www-data
