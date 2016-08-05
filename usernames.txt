@@ -469,6 +469,7 @@ aniruddha
 anish
 anita
 anja
+anka
 anke
 anki
 ankit
@@ -485,6 +486,7 @@ anneliese
 annemarie
 anne-marie
 anneswa
+anni
 annie
 annika
 annmarie
@@ -637,6 +639,7 @@ axel
 axis
 ayden
 azure
+azureuse
 b
 baby
 backup
@@ -1463,6 +1466,7 @@ denys
 denzel
 deop
 deploy
+deploy1
 deployer
 derek
 desadm
@@ -2017,6 +2021,7 @@ foliva
 foo
 foobabar
 foobar
+food
 foot
 footer
 ford
@@ -3620,6 +3625,7 @@ mine
 minecraf
 minecraft
 minecraft1
+minecraftserver
 minela
 ming
 mininet
@@ -4823,6 +4829,7 @@ seth
 setup
 setup\r
 seven
+sex
 sexi
 sexy
 seymour
@@ -5033,6 +5040,7 @@ ss
 ssh
 sshbd
 sshd
+sshf
 sshtunnel
 sshuang
 sshuser
@@ -5692,6 +5700,7 @@ vali
 vance
 vanesa
 vanessa
+var
 vargant
 vargrant
 varnish
@@ -5999,6 +6008,7 @@ workpress
 workshop
 workstation
 workstations
+world
 wot
 wow
 wow3server
