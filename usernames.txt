@@ -382,6 +382,7 @@ aloysius
 alpha
 altibase
 alumno
+alupigus
 alvin
 alwin
 alyona
@@ -531,6 +532,7 @@ apc
 api
 apirakm
 apollo
+apop
 app
 appengine
 apple
@@ -753,6 +755,7 @@ bessie
 beta
 beth
 betsy
+betta
 bettina
 betty
 beverly
@@ -1397,6 +1400,7 @@ day
 dayz
 db
 db1
+db1inst1
 db2
 db2admin
 db2as
@@ -3069,12 +3073,14 @@ ke
 keana
 keanna
 kedar
+keith
 keiv
 kelcie
 kelemen
 kellie
 kelly
 kemily
+ken
 kenvelo
 kerine
 kermit
@@ -5892,6 +5898,7 @@ w6support
 wade
 walker
 wallace
+wallpaper
 walter
 wanda
 wang
