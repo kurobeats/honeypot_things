@@ -3121,6 +3121,7 @@ kms
 knilesh
 knox
 ko
+koch
 kochieng
 kodak
 kode
@@ -4055,6 +4056,7 @@ opkaushik
 oprah
 oprofile
 ops
+opscode
 opyu
 or
 ora
@@ -4382,6 +4384,7 @@ public^M
 public\r
 puebra
 puiu
+pulkit
 pulse
 pupa
 puppet
@@ -6129,6 +6132,8 @@ zam
 zena
 zenoss
 zephyr
+zer0
+zero
 zeus
 zfposp
 zha
