@@ -1185,6 +1185,7 @@ cock
 coco
 codaw
 coder
+# -*- coding
 codmw
 codmw3
 COGNOS\r
@@ -2769,6 +2770,7 @@ iosif
 iotek
 ip
 ipaccess
+ipfs
 iq
 iQ
 Iqadmin
@@ -3151,6 +3153,7 @@ kornel
 kornelia
 koyoto
 krawler
+krevar
 krishanan
 krishna
 krishnamohan
@@ -4396,6 +4399,7 @@ public\r
 puebra
 puiu
 pulkit
+pullkit
 pulse
 pupa
 puppet
@@ -5149,6 +5153,7 @@ sua
 subbs
 subio
 subs
+subuser
 subversion
 suceava
 sudarshanr
@@ -5950,6 +5955,7 @@ webcam
 webdb
 webdev
 webdeveloper
+webfacade
 webftp
 webftp^M
 weblogic
