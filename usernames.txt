@@ -148,6 +148,7 @@ adeline
 ademir
 ademkose
 adempiere
+adempire
 adernet
 adevarul
 adf
@@ -628,6 +629,7 @@ aurora
 austin
 auth
 autobuild
+autocad
 automak
 autopatch
 autumn
@@ -1211,6 +1213,7 @@ computer
 comune
 concat
 condor
+config
 confixx
 confluence
 connect
@@ -2631,6 +2634,7 @@ htt
 http
 HTTP
 httpd
+httpfs
 huawei
 hubert
 hubertus
@@ -3175,6 +3179,7 @@ kwong
 kyle
 kym
 l
+l2
 l3
 la
 lab
@@ -3594,6 +3599,7 @@ members
 memcache
 memcached
 memo
+memotec
 memphis
 menu
 mephise
@@ -3910,6 +3916,7 @@ nicoara
 nicolas
 nicole
 Nicole
+niconex
 NICONEX
 nicu
 nieves
@@ -3954,6 +3961,7 @@ noghiri
 nolan
 none
 nongmin
+nop
 nora
 norbert
 noreply
@@ -4325,6 +4333,7 @@ postpone
 posy
 potgres
 power
+powerdown
 powered
 pp
 ppazmino
@@ -4713,6 +4722,7 @@ ruthie
 ruut
 rvadmin
 rw
+rwa
 rwa\r
 rw\r
 ryan
@@ -4722,6 +4732,7 @@ ryley
 s
 s1
 s3ftp
+sa
 sabina
 sabrina
 sad
