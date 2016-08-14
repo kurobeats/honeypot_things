@@ -854,6 +854,11 @@ borg
 boris
 boss
 bot
+bot1
+bot2
+bot3
+bot4
+bot5
 botanic
 bots
 bouncer
@@ -950,6 +955,7 @@ cableroot\r
 cabox
 cac_admin
 cacadmin\r
+cacat
 cacilia
 cacilie
 cacti
@@ -1288,6 +1294,7 @@ crimson
 crincon
 criss
 cristi
+cristiano
 cristinamaria
 crmdev
 cron
@@ -1482,6 +1489,10 @@ denzel
 deop
 deploy
 deploy1
+deploy2
+deploy3
+deploy4
+deploy5
 deployer
 derek
 desadm
@@ -1746,6 +1757,7 @@ eleanor
 electra
 electrical
 eleet
+elein
 elek
 elena
 eleni
@@ -2259,6 +2271,11 @@ ggitau
 ggkkdev
 ghernandez
 ghost
+ghost1
+ghost2
+ghost3
+ghost4
+ghost5
 ghosts
 gia
 Giani
@@ -2288,6 +2305,8 @@ git1
 git123
 git2
 git3
+git4
+git5
 gitadmin
 github
 gitlab
@@ -2434,6 +2453,11 @@ hack
 hacker
 hades
 hadoop
+hadoop1
+hadoop2
+hadoop3
+hadoop4
+hadoop5
 hadoopuser
 hadoopusr
 hagen
@@ -3807,7 +3831,10 @@ nadia
 naga
 nagios
 nagios1
+nagios2
 nagios3
+nagios4
+nagios5
 nagiosadmin
 nagiosuser
 naiara
@@ -4085,8 +4112,12 @@ or
 ora
 ora11
 oracle
+oracle1
 oracle123
 oracle2
+oracle3
+oracle4
+oracle5
 oralce
 orange
 oraprod
@@ -4324,6 +4355,10 @@ postfix
 postgers
 postgres
 postgres1
+postgres2
+postgres3
+postgres4
+postgres5
 postgresql
 postgress
 postgrest
@@ -4643,6 +4678,7 @@ root1213
 root2
 root3
 root4
+root5
 ROOT500\r
 rootalias
 rootaron
@@ -5116,6 +5152,7 @@ status
 steam
 Steam
 steam1
+steamserver
 stef
 stefan
 stefania
@@ -5735,6 +5772,11 @@ vacftp
 vadim
 vaghelanr
 vagrant
+vagrant1
+vagrant2
+vagrant3
+vagrant4
+vagrant5
 vaibhav
 valdeir
 valentin
