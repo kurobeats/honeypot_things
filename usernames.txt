@@ -59,6 +59,7 @@ abbas
 abc
 abc123
 abcde
+abcdef
 abcdefg
 abcs
 abdul
@@ -310,6 +311,7 @@ akrotov
 akshayv
 akshit
 aksinya
+aktainfo
 aktemur
 akulina
 akushnikov
@@ -578,6 +580,8 @@ aron
 arpad
 arpanet
 arquivo
+arsha
+arshad
 arthur
 articon\r
 artifactory
@@ -3929,6 +3933,7 @@ newuser
 newuser1
 nextgen
 nexus
+nexus1
 nfast
 nfsnobod
 nfsnobody
@@ -5712,6 +5717,7 @@ unix
 unixcmd
 unknown
 unlock
+uno85
 unreal
 unrecognized
 unrevealed
