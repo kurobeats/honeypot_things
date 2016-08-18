@@ -1081,6 +1081,7 @@ chakri
 chandler
 chandru
 chang
+changeme
 changeme^M
 changeme\r
 charleene
@@ -5276,6 +5277,7 @@ symfony
 syn
 sync
 syncro
+synnet
 syno
 synon
 sys
