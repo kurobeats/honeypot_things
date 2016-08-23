@@ -929,6 +929,7 @@ buhgltr
 build
 bunic
 burchard
+bureau
 burkhard
 burkhatr
 burt
@@ -2658,6 +2659,7 @@ hplip
 HPOFFICE\r
 hscroot
 hsiao
+hsqldb
 hsubhadeep
 html
 <html
