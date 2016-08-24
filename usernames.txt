@@ -3448,6 +3448,8 @@ maintpw\r
 maise
 makar
 maker
+makilson
+maklison
 malcom
 mali
 malika
@@ -4108,6 +4110,7 @@ openqrm
 opensuse
 opentsdb
 openvpn
+openvpn_as
 openwebbeans
 oper
 operador
@@ -4988,6 +4991,7 @@ simon
 simona
 simonf
 simpson
+simran
 sims
 sims2
 sinusbot
@@ -6157,6 +6161,7 @@ xcass
 xchat
 xd
 \xd0root
+\xef\xbb\xbfroot
 xerces
 xerox
 xfs
@@ -6206,6 +6211,7 @@ yoshida
 yotta
 youtube
 yu
+yukun
 yulia
 yulian
 yuriswerts
