@@ -21,6 +21,7 @@
 1234\r
 12wqasxz
 1502
+15125512512
 1q
 2
 2%
@@ -34,7 +35,10 @@
 45.55.6.129:root:password
 5
 500
+51251251251
+51252151251
 515432523
+52151252155
 6
 68
 69
@@ -1426,6 +1430,8 @@ db1inst1
 db2
 db2admin
 db2as
+db2das1
+db2f94
 db2fenc1
 db2fenc2
 db2fenc3
@@ -1642,6 +1648,7 @@ dota2server
 double
 doug
 douglas
+dougtargett
 download
 downloader
 downloads
@@ -2528,6 +2535,7 @@ hbase
 hbistc
 hcat
 hd
+hdduser
 hdfs
 HDP
 hdsf
@@ -2657,6 +2665,7 @@ house
 howard
 hplip
 HPOFFICE\r
+hqitsm
 hscroot
 hsiao
 hsqldb
@@ -3072,6 +3081,7 @@ kabincha
 kachan
 kafka
 kajetan
+kakuz
 kali
 kalman
 kamal
@@ -3265,6 +3275,7 @@ leticia
 letmein
 lev
 levi
+levoid
 lewis
 lguser
 liam
@@ -5465,6 +5476,7 @@ tez
 tf
 tf2server
 tflogs
+tftp
 thad
 thai
 thaiset
@@ -5993,6 +6005,7 @@ vweru
 vyacheslav
 vyatta
 vyattad
+vyos
 w
 w3ftp
 w3master
