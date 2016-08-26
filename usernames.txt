@@ -965,6 +965,7 @@ cabox
 cac_admin
 cacadmin\r
 cacat
+Cacat
 cacilia
 cacilie
 cacti
@@ -1067,6 +1068,7 @@ cecicle
 cecil
 cecilia
 cedric
+cehost
 cele
 celeryd
 cent
