@@ -5996,8 +5996,10 @@ vpn
 vps
 VPS
 vpstmpadminuser
+vs
 vscan
 vsevolod
+vsr
 vt100
 vtiger
 vuln
