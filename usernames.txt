@@ -407,6 +407,7 @@ amane
 amarco
 amavis
 amavisd
+amazon
 ambari
 ambari-qa
 amber
@@ -919,6 +920,7 @@ bryana
 bryanna
 bryce
 brynn
+bsbk
 bsd
 bsnl
 bssh
@@ -1105,6 +1107,7 @@ chefclient
 chemistry
 chen
 chenliang
+chenyi
 cher
 chernova
 chester
@@ -1369,6 +1372,7 @@ da
 dados
 daemon
 dagmar
+daijiabao
 daisy
 dakota
 Dakota
@@ -2494,6 +2498,7 @@ hammer
 hana
 handoop
 handtuch
+hanen
 hank
 hanke
 hanna
@@ -3082,6 +3087,7 @@ k3rs
 kabincha
 kachan
 kafka
+kaiwen
 kajetan
 kakuz
 kali
@@ -3296,6 +3302,7 @@ lightdm
 lila
 liliana
 lilly
+limin
 limp
 linaro
 lincoln
@@ -3358,6 +3365,7 @@ lost+found
 lotus
 LOTUS\r
 lotv
+louis
 louisa
 louise
 love
@@ -3395,6 +3403,7 @@ lujza
 lukacs
 lukas
 luke
+luogui
 luv
 lwh
 lx
@@ -4271,6 +4280,7 @@ pela
 pelageia
 pen
 penelope
+pengjing
 pengkelian
 penny
 pentagon
@@ -5389,6 +5399,8 @@ teamspeak3-user
 teamspeak4
 teamspeak5
 TeamSpek
+teamspekserver
+TeamSpekServer
 tear
 teca
 tech
@@ -6072,6 +6084,7 @@ weldon
 welshwater
 wemaster
 wendy
+wenjun
 wesley
 west
 weston
@@ -6231,6 +6244,7 @@ yu
 yukun
 yulia
 yulian
+yunjie
 yuriswerts
 yury
 yusuf
