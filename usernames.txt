@@ -411,6 +411,7 @@ amand
 amanda
 amane
 amarco
+amator
 amavis
 amavisd
 amazon
@@ -2717,6 +2718,7 @@ humphrey
 hunt
 hunter
 huppert
+hushouguo
 hussain
 hxhtftp
 hy
@@ -2963,6 +2965,7 @@ jcseg-server
 jdavila
 jdcurtis
 JDE
+jdprize
 jean
 jeff
 jeffchen
@@ -3732,6 +3735,7 @@ milan
 milena
 miller
 milton
+minamoto
 mindtouch
 mindy
 mine
@@ -4183,6 +4187,7 @@ oracle2
 oracle3
 oracle4
 oracle5
+oracler
 oralce
 orange
 oraprod
@@ -4712,6 +4717,7 @@ rodrique
 roger
 rohit
 rohita
+roiot
 roland
 rolands
 roller
@@ -5683,6 +5689,7 @@ toshiba
 Toshiba
 total
 toto
+tour2015
 toxiclab
 tplink
 tpuser
