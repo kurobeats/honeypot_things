@@ -1113,12 +1113,14 @@ charlotte
 charon
 chase
 chat
+chauhan
 checkfsys
 checksys
 chefclient
 chemistry
 chen
 chenliang
+chenrui
 chenyi
 cher
 chernova
@@ -1138,6 +1140,7 @@ choco
 chocolate
 choi
 chouji
+chouq
 chris
 chriss
 chrissie
@@ -1170,6 +1173,7 @@ ckobia
 ckodhek
 clamav
 clamav1
+clamperist
 clan
 clara
 clare
@@ -2969,6 +2973,7 @@ jdcurtis
 JDE
 jdprize
 jean
+jedi
 jeff
 jeffchen
 jeffrey
