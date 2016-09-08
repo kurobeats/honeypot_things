@@ -667,6 +667,7 @@ ayu
 azure
 azureuse
 b
+B1NARY
 baby
 backup
 backuppc
@@ -1168,6 +1169,7 @@ cinema
 ciro
 cisco
 Cisco
+CISCO
 cisti
 ckobia
 ckodhek
@@ -4308,6 +4310,7 @@ parking
 part
 partner
 partners
+parts
 party
 pascal
 pass
@@ -4683,6 +4686,7 @@ recruit
 red
 redhat
 redis
+redmin
 redmine
 reed
 refresh
@@ -4972,6 +4976,7 @@ sc2lotv
 sc2wol
 scan
 scanner
+scans
 scarab
 scarlet
 scarlett
@@ -5199,6 +5204,7 @@ sonya
 sophia
 Sophia
 sophie
+sophos
 soporte
 Soporte
 soraya
@@ -5369,6 +5375,7 @@ supervisor
 suport
 suporte
 suporttest
+supply
 support
 SUPPORT\r
 supporttest
@@ -6131,6 +6138,7 @@ wade
 walker
 wallace
 wallpaper
+wallpapers
 walter
 wanda
 wang
