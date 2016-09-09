@@ -187,6 +187,7 @@ admin23109104
 admincorreo
 admincrm
 admIndian
+adminftp
 administracion
 administrador
 administrator
@@ -1395,6 +1396,7 @@ daemon
 dagmar
 daijiabao
 daisy
+dajiabao
 dakota
 Dakota
 dale
@@ -3427,6 +3429,7 @@ lost+found
 lotus
 LOTUS\r
 lotv
+lougui
 louis
 louisa
 louise
@@ -4026,6 +4029,7 @@ nevada
 never
 new
 newadmin
+newpass
 newrelic
 newroot
 news
@@ -4406,6 +4410,7 @@ physics
 pi
 piano
 picasso
+PicmSplp
 pico
 picture
 piedad
@@ -5128,6 +5133,7 @@ skaner
 skill
 skin
 skkb
+sklad
 sksharma
 sky
 skyblue
