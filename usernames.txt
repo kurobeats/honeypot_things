@@ -4893,6 +4893,8 @@ rusia
 ruslan
 russ
 russel
+rust
+rustserver
 rute
 ruth
 ruthie
@@ -5811,6 +5813,7 @@ ts3user
 ts3usr
 ts4
 ts5
+TSBot
 tspeak
 tss
 tsserver
