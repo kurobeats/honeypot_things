@@ -585,6 +585,7 @@ aoyule
 apache
 apache2
 apache6
+apacher
 apagar
 apc
 api
