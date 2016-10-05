@@ -6096,6 +6096,7 @@ telephone
 TELESUP\r
 telnet
 telnetd
+telone
 temp
 temp1
 tempo
