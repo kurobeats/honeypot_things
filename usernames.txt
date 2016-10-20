@@ -11,6 +11,7 @@ admin
 administrator
 admissions
 adrian
+advent
 agent
 agios
 amanda
@@ -160,6 +161,7 @@ isp
 jabber
 jack
 james
+jason
 jaxon
 jboss
 jeff
@@ -294,6 +296,7 @@ support
 susan
 svn
 sys
+sysadmin
 syslog
 sysop
 system
@@ -316,6 +319,7 @@ tomcat
 tomcat7
 tony
 toor
+toto
 track
 training
 ts
@@ -364,6 +368,7 @@ work
 wow
 www
 www-data
+xavier
 xbmc
 xerox
 xiao
