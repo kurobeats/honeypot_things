@@ -8,6 +8,7 @@ ace
 adam
 adm
 admin
+Admin
 administrator
 admissions
 adrian
@@ -49,6 +50,7 @@ byte
 bytes
 cameron
 carlo
+carson
 carter
 centos
 chat
@@ -65,6 +67,7 @@ cpanel
 cron
 cs
 csgo
+cubie
 cvs
 cyber
 cyrus
@@ -139,6 +142,7 @@ halt
 harrypotter
 hdfs
 hdsf
+help
 home
 html
 http
@@ -194,6 +198,7 @@ michael
 mike
 minecraft
 mircte
+mobile
 monitor
 moo
 mp3
@@ -286,6 +291,7 @@ snmp
 soft
 software
 srv
+sshd
 staff
 steam
 stephen
@@ -337,6 +343,7 @@ upload
 uptime
 user
 user02
+user1
 username
 users
 uucp
