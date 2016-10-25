@@ -12,6 +12,7 @@ adam
 adm
 admin
 Admin
+ADMIN
 administrateur
 administrator
 admissions
@@ -21,6 +22,7 @@ advent
 agent
 agios
 aion
+alain
 alex
 amanda
 amavisd
@@ -199,6 +201,7 @@ isp
 ispconfig
 jabber
 jack
+jackson
 james
 jason
 java
@@ -322,6 +325,7 @@ qtss
 qz
 radio
 rdp
+recruit
 redhat
 redis
 redmine
