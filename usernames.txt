@@ -119,6 +119,7 @@ desktop
 dev
 developer
 devil
+diego
 divine
 D-Link
 dns
@@ -273,6 +274,7 @@ nobody
 nolan
 noreply
 no-reply
+notes
 ns
 ns2
 nsrecover
@@ -344,6 +346,7 @@ school
 sebastian
 secret
 server
+service
 services
 shadow
 shadows
@@ -458,6 +461,7 @@ www-data
 wwwrun
 xavier
 xbmc
+\xef\xbb\xbfadmin
 xerox
 xiao
 xuser
