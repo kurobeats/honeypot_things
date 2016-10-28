@@ -84,6 +84,7 @@ clisudoer
 cloudatcost
 cloudpro
 cms
+com
 control
 core
 counterstrike
@@ -221,6 +222,7 @@ kartel
 kernel
 kevin
 kodi
+lakeee
 leo
 library
 liferay
@@ -364,6 +366,7 @@ software
 srv
 ssh
 sshd
+sshusr
 staff
 steam
 stephen
