@@ -43,6 +43,7 @@ appuser
 aptproxy
 arbab
 asher
+ask
 asp
 asterisk
 awt
@@ -125,6 +126,7 @@ desktop
 dev
 developer
 devil
+dfk
 diego
 divine
 D-Link
@@ -147,6 +149,7 @@ eth
 ethan
 ethernet
 etherpad
+export
 fabio
 fax
 fedora
@@ -200,6 +203,7 @@ informix
 install
 ios
 ip
+ipfs
 iQ
 irc
 ircd
@@ -239,6 +243,7 @@ log
 logan
 love
 lp
+lty
 lucas
 mail
 mailer
@@ -312,6 +317,7 @@ pedro
 pervuhina
 pgsql
 php
+phuket
 pi
 pico
 PlcmSpIp
