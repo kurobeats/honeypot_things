@@ -252,6 +252,7 @@ lp
 lpa
 lty
 lucas
+lwh
 mail
 mailer
 mailman
@@ -325,6 +326,7 @@ pedro
 pervuhina
 pgsql
 php
+.php
 phuket
 pi
 pico
@@ -394,6 +396,7 @@ soft
 software
 srv
 ssh
+sshbd
 sshd
 sshusr
 staff
