@@ -23,6 +23,7 @@ Admin
 ADMIN
 administrateur
 administrator
+Administrtor
 admins
 adminuser
 admissions
@@ -33,8 +34,10 @@ advent
 agent
 agios
 aion
+ak47
 alain
 alex
+alpine
 amanda
 amavisd
 amosdev
