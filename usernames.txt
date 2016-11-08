@@ -100,6 +100,7 @@ carson
 carter
 cboileau
 c-cloudpro-
+cdimakop
 centos
 chat
 christian
@@ -317,6 +318,7 @@ mfs
 michael
 mike
 minecraft
+minecraft1
 mircte
 mobile
 mobilenetgames
@@ -423,6 +425,7 @@ rider
 robert
 root
 Root
+root2
 rsync
 rust
 ryan
@@ -565,6 +568,7 @@ webportal
 webs
 webuser
 wenzhao
+werwolf
 white
 whitehat
 windowserver
@@ -582,6 +586,7 @@ xbmc
 xerox
 xiangpeng
 xiao
+xubuntu
 xuser
 z
 zabbix
