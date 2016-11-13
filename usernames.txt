@@ -245,6 +245,7 @@ hostmaster
 html
 http
 httpd
+huawei
 hudson
 hui
 hunter
@@ -290,6 +291,7 @@ joshua
 juan
 julia
 justin
+kang
 karaf
 kartel
 kernel
@@ -308,6 +310,7 @@ list
 live
 log
 logan
+loss
 love
 lp
 lpa
@@ -368,6 +371,7 @@ nmis
 no
 nobody
 nolan
+nongmin
 noreply
 no-reply
 notes
@@ -395,6 +399,8 @@ otrs
 ovh
 page
 party
+passwd
+patrol
 paul
 pc
 pc01
@@ -403,6 +409,7 @@ pc1
 pedro
 pervuhina
 peter
+pgadmin
 pgsql
 phoenix
 php
@@ -486,6 +493,7 @@ site
 skan
 skaner
 skill
+slide
 sma
 snmp
 soft
@@ -518,6 +526,7 @@ teacher
 teamspeak
 teamspeak3
 tech
+telnet
 temp
 test
 Test
@@ -537,6 +546,7 @@ tom
 tomcat
 tomcat7
 tony
+tony.oh
 toor
 toto
 track
@@ -555,6 +565,7 @@ ubnt
 ubuntu
 ucpss
 uid
+unlock
 upload
 uploader
 upport
@@ -567,6 +578,7 @@ username
 users
 usuario
 uucp
+uzzica
 vagrant
 vbox
 verwalter
@@ -576,6 +588,7 @@ vicenzo
 video
 view
 vim
+vin
 virus
 virusalert
 visitor
