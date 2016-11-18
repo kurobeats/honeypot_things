@@ -117,6 +117,7 @@ cindy
 cinema
 cisco
 clamav
+client
 clisudoer
 cloud
 cloudatcost
