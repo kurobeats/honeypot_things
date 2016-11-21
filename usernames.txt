@@ -1,4 +1,5 @@
 1
+1111
 123
 1234
 12345
@@ -15,6 +16,7 @@
 a
 a1
 aa
+aadmin
 aaron
 abc
 abc123
@@ -207,6 +209,7 @@ dns1
 doctor
 download
 downloads
+draytek
 dropbox
 dspace
 DTA
@@ -230,6 +233,7 @@ fabio
 facebook
 fax
 fedora
+FIELD
 fld
 foo
 forum
@@ -355,6 +359,7 @@ list
 live
 log
 logan
+login
 loss
 love
 lp
@@ -363,11 +368,13 @@ lty
 lucas
 lwh
 mail
+MAIL
 mailer
 mailman
 mailnull
 man
 manager
+MANAGER
 mangodb
 manuf
 mark
@@ -379,6 +386,7 @@ master
 matt
 mc
 mcserver
+MDaemon
 mdb
 mdpi
 mediafire
@@ -386,6 +394,7 @@ mediator
 mega
 metin
 mfs
+MGR
 michael
 mike
 mikis
@@ -416,6 +425,7 @@ named
 nano
 nathan
 ncs
+netman
 netrouting
 new
 news
@@ -448,6 +458,7 @@ openbravo
 openerp
 operations
 operator
+OPERATOR
 oprofile
 opyu
 oracle
@@ -464,6 +475,7 @@ pc
 pc01
 pc02
 pc1
+PCUSER
 pedro
 pervuhina
 peter
@@ -685,6 +697,7 @@ webmaster
 webpop
 webportal
 webs
+websecadm
 webuser
 wenzhao
 werwolf
@@ -697,6 +710,7 @@ work
 workshop
 wow
 wp
+WP
 www
 www-data
 wwwrun
