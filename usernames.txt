@@ -81,6 +81,7 @@ applmgr
 appuser
 aptproxy
 arbab
+arlos
 asher
 ashish
 ask
@@ -227,6 +228,7 @@ DTA
 dup
 Dup
 DUP
+DUP root
 dvd
 dvs
 dylan
@@ -382,6 +384,7 @@ lpa
 lty
 lucas
 lwh
+m
 mail
 MAIL
 mailer
@@ -551,6 +554,7 @@ RMUser1
 robert
 robyn
 root
+ root
 Root
 root2
 rsync
@@ -722,6 +726,7 @@ web
 web1
 webadm
 webadmin
+webconfig
 webdev
 webftp
 weblogic
