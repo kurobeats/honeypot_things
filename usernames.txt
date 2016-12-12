@@ -24,6 +24,7 @@ bash
 bmcclain
 brian
 cactiuser
+chad
 charles
 cmf_ppro
 confixx
@@ -37,6 +38,7 @@ demon
 deploy
 dev
 diella
+dqsqq
 enable\x00
 evan
 ftp
@@ -46,6 +48,7 @@ git
 guest
 jhesrhel
 jjs_ppro
+jonah
 julie
 juliejung
 kayden
@@ -61,6 +64,8 @@ mysql
 nagiosuser
 netdiag
 office
+oleta
+openvpn
 oracle
 orange21
 .php
@@ -68,7 +73,9 @@ pi
 pma
 postgres
 prueba
+recruit
 rgn_ppro
+roosevelt1
 root
 root1
 rsadmin
@@ -82,6 +89,7 @@ sshd
 supervisor
 support
 suser
+taysa
 tc
 tech
 test
@@ -94,3 +102,4 @@ vagrant
 wang
 webadmin
 webmaster
+xiao
