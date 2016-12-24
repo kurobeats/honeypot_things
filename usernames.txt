@@ -81,6 +81,11 @@ developer
 diella
 dominic
 dqsqq
+DUP
+DUP admin
+DUP guest
+DUP root
+DUP user
 ec2-user
 enable\x00
 ethan
@@ -163,6 +168,7 @@ Operator
 oprofile
 oracle
 orange21
+osmc
 otrs
 pedro
 pervuhina
@@ -203,6 +209,7 @@ supervisor
 support
 suser
 svn
+system
 taysa
 tc
 teamspeak
