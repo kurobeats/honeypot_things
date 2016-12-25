@@ -4,6 +4,7 @@
 0admin
 0guest
 0test
+1
 102030
 1111
 111111
@@ -32,6 +33,7 @@
 85086
 888888
 abc123
+adam
 ADMIN
 admin
 administrator
@@ -54,9 +56,12 @@ bash
 ben
 bin
 bmcclain
+bob
 brian
 bwadmin
 cactiuser
+carrie
+carson
 cashier
 chad
 charles
@@ -73,11 +78,13 @@ david
 db2inst
 db2inst1
 debian
+demo
 demon
 deploy
 deployer
 dev
 developer
+diego
 diella
 dominic
 dqsqq
@@ -122,6 +129,7 @@ jira
 jjs_ppro
 jonah
 joomla
+jordan
 juan
 julie
 juliejung
@@ -158,6 +166,9 @@ nobody
 noreply
 no-reply
 notice
+odoo
+odoo8
+odoo9
 office
 oleta
 openbraov
@@ -199,12 +210,14 @@ rssuser
 rsync
 sales
 sen_ppro
+service
 share
 shell\x00
 simran
 skh_ppro
 snk_ppro
 sshd
+student
 supervisor
 support
 suser
@@ -237,6 +250,7 @@ ts3
 ubnt
 ubuntu
 upload
+upx
 user
 usuario
 usuario1
