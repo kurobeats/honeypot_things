@@ -34,6 +34,7 @@
 888888
 abc123
 adam
+adm
 ADMIN
 admin
 administrator
@@ -77,6 +78,7 @@ dave
 david
 db2inst
 db2inst1
+dbadmin
 debian
 demo
 demon
@@ -159,6 +161,7 @@ mysql
 nag1os
 nagios
 nagiosuser
+ncs
 netdiag
 news
 newsroom
@@ -176,6 +179,7 @@ openbravo
 openerp
 openvpn
 Operator
+operator
 oprofile
 oracle
 orange21
@@ -214,6 +218,7 @@ service
 share
 shell\x00
 simran
+site
 skh_ppro
 snk_ppro
 sshd
