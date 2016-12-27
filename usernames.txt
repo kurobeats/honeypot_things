@@ -37,6 +37,7 @@ adam
 adm
 ADMIN
 admin
+administrador
 administrator
 admln
 adrian
@@ -52,6 +53,7 @@ asp
 ast2000
 asterisk
 asteriskpbx
+avis
 backup
 bash
 ben
@@ -72,6 +74,7 @@ confixx
 connor
 cron
 cusadmin
+CVOTER
 cyrus
 daniel
 dave
@@ -90,6 +93,7 @@ diego
 diella
 dominic
 dqsqq
+dspace
 DUP
 DUP admin
 DUP guest
@@ -101,6 +105,7 @@ ethan
 evan
 export
 falcon
+file
 fly
 ftp
 ftp1
@@ -130,6 +135,7 @@ jhesrhel
 jira
 jjs_ppro
 jonah
+jonas
 joomla
 jordan
 juan
@@ -140,6 +146,7 @@ kayden
 kevin
 kirk
 leo
+lms
 lp
 lshapps
 lshora
@@ -152,6 +159,7 @@ market
 martin
 mediav
 minecraft
+mm
 mobilenetgames
 moodle
 mother
@@ -165,6 +173,7 @@ ncs
 netdiag
 news
 newsroom
+nginx
 nobody
 noreply
 no-reply
@@ -186,6 +195,7 @@ orange21
 osmc
 otrs
 pedro
+pentaho
 pervuhina
 peter
 photo
@@ -200,6 +210,8 @@ proxy
 prueba
 !qaz@wsx
 qtss
+r00t
+rails
 recruit
 redmine
 research
@@ -214,6 +226,7 @@ rssuser
 rsync
 sales
 sen_ppro
+server
 service
 share
 shell\x00
@@ -221,6 +234,7 @@ simran
 site
 skh_ppro
 snk_ppro
+ss
 sshd
 student
 supervisor
@@ -263,9 +277,12 @@ usuario2
 uucp
 uuidd
 vagrant
+vnc
+vyatta
 wang
 webadmin
 webftp
+weblogic
 webmaster
 wordpress
 wp
