@@ -60,7 +60,9 @@ ben
 bin
 bmcclain
 bob
+botmaster
 brian
+butter
 bwadmin
 cactiuser
 carrie
@@ -73,6 +75,7 @@ cmf_ppro
 confixx
 connor
 cron
+csgoserver
 cusadmin
 CVOTER
 cyrus
@@ -116,6 +119,7 @@ getmail
 ghost
 giiky
 git
+gmodserver
 guest
 hadoop
 haibis
@@ -158,6 +162,7 @@ mark
 market
 martin
 mediav
+mine
 minecraft
 mm
 mobilenetgames
@@ -231,6 +236,7 @@ service
 share
 shell\x00
 simran
+sinusbot
 site
 skh_ppro
 snk_ppro
@@ -266,8 +272,11 @@ tomcat6
 tomcat7
 ts
 ts3
+ts3bot
+ts3server
 ubnt
 ubuntu
+ucpss
 upload
 upx
 user
