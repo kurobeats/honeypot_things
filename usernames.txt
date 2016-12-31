@@ -62,6 +62,7 @@ backuppc
 bash
 ben
 bin
+bitrix
 bmcclain
 bob
 botmaster
@@ -90,6 +91,7 @@ cyrus
 daniel
 dave
 david
+db
 db2inst
 db2inst1
 dbadmin
@@ -138,6 +140,7 @@ guest
 hadoop
 haibis
 hannes
+hduser
 help
 henny
 hostmaster
@@ -311,6 +314,7 @@ test1234
 test2
 test3
 test4
+test5
 testphp
 testuser
 todds
