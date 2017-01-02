@@ -71,6 +71,7 @@ brian
 butter
 bwadmin
 cactiuser
+camera
 carrie
 carson
 cashier
@@ -174,6 +175,7 @@ kayden
 kevin
 kirk
 leo
+library
 lms
 loss
 lp
@@ -339,6 +341,7 @@ upload
 upx
 user
 user9
+username
 usuario
 usuario1
 usuario2
