@@ -27,6 +27,7 @@
 1admin
 1dd
 1guest
+1qaz@WSX
 1test
 22
 22b
@@ -39,11 +40,15 @@ abc
 abc123
 account
 accounting
+acumen
+ada
 adam
+addicted
 adm
 ADMIN
 Admin
 admin
+admin1
 administrador
 administrator
 admln
@@ -110,6 +115,7 @@ cjohnson
 classic
 clerezza
 cmf_ppro
+cmsftp
 confixx
 connor
 core
@@ -138,6 +144,7 @@ db2admin
 db2inst
 db2inst1
 dbadmin
+ddo
 debian
 default
 demo
@@ -292,6 +299,7 @@ module
 monitor
 moodle
 mother
+motorola
 movies
 muie
 multicraft
@@ -303,6 +311,7 @@ mythtv
 nag1os
 nagios
 nagiosuser
+nano
 naseej
 ncs
 netdiag
@@ -366,6 +375,7 @@ pos
 posp
 postfix
 postgres
+pptpd
 press
 printer
 project
@@ -459,6 +469,7 @@ suser
 svn
 sybase
 sync
+syslog
 sysop
 system
 tamadou
@@ -482,6 +493,7 @@ test2
 test3
 test4
 test5
+test7
 testaccount
 tester
 testing
@@ -492,6 +504,7 @@ three
 threet
 tim
 todds
+tokend
 tom
 tomcat
 tomcat5
@@ -499,6 +512,7 @@ tomcat6
 tomcat7
 tony.oh
 torrent
+training
 transfer
 ts
 ts3
@@ -554,6 +568,7 @@ wp
 www
 www-data
 wwwrun
+xbmc
 xbox
 \xce\xb1\xc2\xbf\xc3\xa6\xc3\xa6\xc2\xb5\xe2\x88\xab\xc2\xa5\xc3\xb8\xc3\xb8\xc2\xa3
 xiao
