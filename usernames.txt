@@ -73,6 +73,7 @@ apache
 apache2
 appldev
 apple
+arthur
 asdf
 asp
 ast2000
@@ -82,6 +83,7 @@ avis
 B1NARY
 backup
 backuppc
+bananapi
 bash
 ben
 bin
@@ -118,6 +120,7 @@ cjohnson
 claire
 classic
 clerezza
+cloud
 cmf_ppro
 cmsftp
 confixx
@@ -175,6 +178,7 @@ DUP guest
 DUP root
 DUP user
 ec2-user
+eleve
 enable\x00
 eric
 ethan
@@ -270,6 +274,7 @@ kartel
 kayden
 kevin
 kirk
+koha
 kui
 lenovo
 leo
@@ -299,6 +304,7 @@ market
 marketing
 martin
 master
+matthew
 mcserver
 media
 mediav
@@ -332,6 +338,7 @@ nan
 nano
 naseej
 ncs
+ncuser
 netdiag
 new
 newadmin
@@ -428,6 +435,7 @@ root1
 rot
 ROUSER
 rpcuser
+rptic
 rsadmin
 rssuser
 rsync
@@ -492,6 +500,7 @@ suser
 svn
 sybase
 sync
+sysadmin
 syslog
 sysop
 system
@@ -565,6 +574,7 @@ vagrant
 video
 vin
 vincent
+vivek
 vmail
 vmuser
 vnc
