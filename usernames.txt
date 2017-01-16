@@ -32,6 +32,7 @@
 22
 22b
 2a
+500
 666666
 85086
 888888
@@ -65,6 +66,7 @@ allison
 amanda
 amavis
 amssys
+amy
 andrew
 angel
 angelo
@@ -229,6 +231,7 @@ ftp_id
 ftptest
 ftpuser
 ftupuser
+games
 gary
 gast
 genoveva
@@ -361,6 +364,7 @@ mike
 mine
 minecraft
 mm
+mobile
 mobilenetgames
 module
 monitor
@@ -651,6 +655,7 @@ uuidd
 uzzica
 vacftp
 vagrant
+verwalter
 video
 vin
 vincent
