@@ -58,6 +58,7 @@ admln
 adrian
 agent
 aion
+ajay
 alan
 alex
 alias
@@ -568,6 +569,7 @@ student
 student1
 student2
 subversion
+super
 supersys
 supervisor
 support
